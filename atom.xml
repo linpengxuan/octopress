@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://linpengxuan.github.com/octopress/atom.xml" rel="self"/>
   <link href="http://linpengxuan.github.com/octopress/"/>
-  <updated>2012-01-02T23:29:47+09:00</updated>
+  <updated>2012-01-02T23:38:48+09:00</updated>
   <id>http://linpengxuan.github.com/octopress/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[1st post from mac]]></title>
+    <link href="http://linpengxuan.github.com/octopress/blog/2012/01/02/1st-post-from-mac/"/>
+    <updated>2012-01-02T23:38:00+09:00</updated>
+    <id>http://linpengxuan.github.com/octopress/blog/2012/01/02/1st-post-from-mac</id>
+    <content type="html"><![CDATA[<p>cd col*
+gem install bundler;bundle install; rake install
+git init
+git add .
+git commit -m &#8216;first commit&#8217;
+git config &#8211;global user.name &#8220;linpengxuan&#8221;
+git config &#8211;global user.email linpengxuan@gmail.com
+git remote add gitweb git@github.com:linpengxuan/colors4us.git
+git push -u gitweb master （先定义gitweb上的colors4.git为gitweb，然后把苹果电脑里的东西master，难道是文件夹中的网站的意思吗？推到gitweb上）
+因为此时直接rake deploy的话就变成用rsync了，所以我只能用采用
+rake rake setup_github_pages (git@github.com:linpengxuan/colors4us.git)</p>
+
+<p>rake generate;rake deploy: 很奇特地显示了To git@github.com:linpengxuan/colors4us.git
+ * [new branch]      gh-pages -> gh-pages 。此时我用这个 git commit -m &#8216;2nd commit&#8217; 无法执行，我想和我刚才的变动有关系，刚才的变动是坐在gh-pages上的，而非master上，所以commit对master无效。</p>
+
+<p>此时我尝试了touch README；git add .；git commit -m &#8216;3rd try&#8217;；git push gitweb master；居然可以了，还把刚才在gh－pages上新发的文章也计入了commit了。会不会是git add .的原因呢？</p>
+
+<p>这样做的结果是网站http://linpengxuan.github.com/colors4us/ 没有主题，而且点击了之后无法展开文件，所以不行。</p>
+
+<p>git remote -v
+git branch -a</p>
+
+<p>因为git branch -v中显示的是master，所以我的git push origin source无效，我改用git push origin master,就ok了。</p>
+]]></content>
+  </entry>
   
 </feed>
