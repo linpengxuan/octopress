@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://linpengxuan.github.com/octopress/blog/2004/12/03/bar-exam.html/</loc>
+        <lastmod>2012-01-04T00:25:10+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://linpengxuan.github.com/octopress/blog/2004/12/03/goals-in-2-years.html/</loc>
+        <lastmod>2012-01-04T00:25:10+09:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://linpengxuan.github.com/octopress/blog/2011/12/10/kindle-touch-%E5%88%9D%E5%A7%8B%E5%8D%B0%E8%B1%A1/
         </loc>
@@ -36,10 +44,10 @@
     </url>
     <url>
         <loc>http://linpengxuan.github.com/octopress/blog/archives/</loc>
-        <lastmod>2012-01-04T00:04:54+09:00</lastmod>
+        <lastmod>2012-01-04T00:25:10+09:00</lastmod>
     </url>
     <url>
         <loc>http://linpengxuan.github.com/octopress/</loc>
-        <lastmod>2012-01-04T00:04:54+09:00</lastmod>
+        <lastmod>2012-01-04T00:25:10+09:00</lastmod>
     </url>
 </urlset>
