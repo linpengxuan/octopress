@@ -1,0 +1,19 @@
+---
+layout: post
+title: "示例"
+date: 2012-01-04 21:47
+comments: true
+categories: 
+---
+
+1. asdf
+1. asdf
+1. sdfasdfasf
+##你好
+###我很好
+####他们也很好
+*nihao*
+----
+
+		public_dir = "public/octopress
+
