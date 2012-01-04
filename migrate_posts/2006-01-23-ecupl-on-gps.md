@@ -1,0 +1,14 @@
+--- 
+categories: 
+  - photo
+comments: true
+layout: post
+published: true
+status: publish
+tags: []
+title: "ECUPL ON GPS"
+type: post
+---
+<div id="msgcns!3725CC0EE38B1F6!873" class="bvMsg">
+<br>I got a sudden thought to see if I can find my school on GPS. Here I go! cool, right!<br><a href="http://www.flickr.com/photos/pennyg/89972232/" title="Photo Sharing"><img src="http://static.flickr.com/13/89972232_09c5937369_o.jpg" alt="map1" height="469" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972273/" title="Photo Sharing"><img src="http://static.flickr.com/26/89972273_28ce3a6a9c_o.jpg" alt="map2" height="445" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972337/" title="Photo Sharing"><img src="http://static.flickr.com/34/89972337_5dd673e850_o.jpg" alt="map3" height="441" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972377/" title="Photo Sharing"><img src="http://static.flickr.com/38/89972377_bbb2ed5e12_o.jpg" alt="map4" height="446" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972397/" title="Photo Sharing"><img src="http://static.flickr.com/28/89972397_efb81531ef_o.jpg" alt="map5" height="441" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972423/" title="Photo Sharing"><img src="http://static.flickr.com/25/89972423_0692ae7b6a_o.jpg" alt="map6" height="445" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972492/" title="Photo Sharing"><img src="http://static.flickr.com/22/89972492_c88dc63a8b_o.jpg" alt="map7" height="453" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972534/" title="Photo Sharing"><img src="http://static.flickr.com/28/89972534_a27ad79c09_o.jpg" alt="map8" height="448" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972560/" title="Photo Sharing"><img src="http://static.flickr.com/29/89972560_b7ecf66e3e_o.jpg" alt="map9" height="425" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972598/" title="Photo Sharing"><img src="http://static.flickr.com/36/89972598_4115c8a4f1_o.jpg" alt="map10" height="453" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972626/" title="Photo Sharing"><img src="http://static.flickr.com/12/89972626_1902c0c65b_o.jpg" alt="map11" height="447" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972658/" title="Photo Sharing"><img src="http://static.flickr.com/18/89972658_5511ce8e77_o.jpg" alt="map12" height="464" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972148/" title="Photo Sharing"><img src="http://static.flickr.com/21/89972148_7659acbed2_o.jpg" alt="map13" height="423" width="800"></a><br><a href="http://www.flickr.com/photos/pennyg/89972197/" title="Photo Sharing"><img src="http://static.flickr.com/25/89972197_c2c15e0aa7_o.jpg" alt="map14" height="373" width="800"></a><br><br>
+</div>

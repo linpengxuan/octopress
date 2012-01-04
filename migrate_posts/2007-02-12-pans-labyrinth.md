@@ -1,0 +1,13 @@
+--- 
+categories: 
+  - movie
+comments: true
+layout: post
+published: true
+status: publish
+tags: []
+title: "Pan's Labyrinth"
+type: post
+---
+<div id="msgcns!3725CC0EE38B1F6!1451" class="bvMsg">这是一部很恶心的电影，导演很变态。我还是忍不住看完。<br><br><img alt="http://www.impawards.com/2006/posters/pans_labyrinth_ver3.jpg" src="http://www.impawards.com/2006/posters/pans_labyrinth_ver3.jpg"><br><br><br><br>
+</div>

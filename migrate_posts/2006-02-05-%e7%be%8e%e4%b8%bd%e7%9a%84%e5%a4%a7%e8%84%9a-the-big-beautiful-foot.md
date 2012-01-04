@@ -1,0 +1,13 @@
+--- 
+categories: 
+  - photo
+comments: true
+layout: post
+published: true
+status: publish
+tags: []
+title: "美丽的大脚 the big beautiful foot"
+type: post
+---
+<div id="msgcns!3725CC0EE38B1F6!907" class="bvMsg">a new round of photo apprieciating. the reason I presented this one is applying aperture in my DC, which is always a magnificent function differs those 1 gram from regular ones.<br><br><img alt="The image “http://static.flickr.com/41/94963989_9e08d2fbd2.jpg” cannot be displayed, because it contains errors." src="http://static.flickr.com/41/94963989_9e08d2fbd2.jpg"><br>
+</div>
