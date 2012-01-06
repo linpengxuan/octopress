@@ -4,6 +4,7 @@ date: '2008-03-01 03:29:05'
 layout: post
 slug: '%e8%bd%ac%e8%87%aa%e6%b1%aa%e6%b1%aa%e8%bd%ac%e8%87%aa%e5%85%b6%e4%bb%96'
 status: publish
+comments: true
 title: 转自汪汪转自其他
 wordpress_id: '28'
 ---

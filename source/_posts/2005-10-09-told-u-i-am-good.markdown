@@ -4,6 +4,7 @@ date: '2005-10-09 04:17:55'
 layout: post
 slug: told-u-i-am-good
 status: publish
+comments: true
 title: told u, i am good
 wordpress_id: '313'
 ---

@@ -4,6 +4,7 @@ date: '2007-06-22 07:22:56'
 layout: post
 slug: a-word-from-mark-twain
 status: publish
+comments: true
 title: a word from Mark Twain
 wordpress_id: '62'
 categories:

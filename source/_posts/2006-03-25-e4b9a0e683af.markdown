@@ -4,6 +4,7 @@ date: '2006-03-25 01:14:09'
 layout: post
 slug: '%e4%b9%a0%e6%83%af'
 status: publish
+comments: true
 title: 习惯
 wordpress_id: '177'
 categories:

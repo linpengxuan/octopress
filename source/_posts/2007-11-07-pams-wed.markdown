@@ -4,6 +4,7 @@ date: '2007-11-07 17:09:41'
 layout: post
 slug: pams-wed
 status: publish
+comments: true
 title: Pam's wed
 wordpress_id: '42'
 categories:

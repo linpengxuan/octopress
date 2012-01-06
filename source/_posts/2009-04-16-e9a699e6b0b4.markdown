@@ -4,6 +4,7 @@ date: '2009-04-16 16:51:59'
 layout: post
 slug: '%e9%a6%99%e6%b0%b4'
 status: publish
+comments: true
 title: 香水
 wordpress_id: '515'
 ---

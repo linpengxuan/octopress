@@ -4,6 +4,7 @@ date: '2007-04-18 03:32:21'
 layout: post
 slug: '%e5%9c%a8%e4%ba%ba%e9%97%b4'
 status: publish
+comments: true
 title: 在人间
 wordpress_id: '56'
 categories:

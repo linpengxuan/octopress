@@ -4,6 +4,7 @@ date: '2006-04-11 08:15:08'
 layout: post
 slug: rumor-has-it
 status: publish
+comments: true
 title: rumor has it
 wordpress_id: '169'
 categories:

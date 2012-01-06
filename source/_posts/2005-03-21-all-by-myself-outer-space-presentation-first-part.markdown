@@ -4,6 +4,7 @@ date: '2005-03-21 16:47:55'
 layout: post
 slug: all-by-myself-outer-space-presentation-first-part
 status: publish
+comments: true
 title: all by myself , outer space presentation, first part
 wordpress_id: '359'
 ---

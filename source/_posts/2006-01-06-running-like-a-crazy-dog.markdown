@@ -4,6 +4,7 @@ date: '2006-01-06 23:24:01'
 layout: post
 slug: running-like-a-crazy-dog
 status: publish
+comments: true
 title: running like a crazy dog
 wordpress_id: '248'
 categories:

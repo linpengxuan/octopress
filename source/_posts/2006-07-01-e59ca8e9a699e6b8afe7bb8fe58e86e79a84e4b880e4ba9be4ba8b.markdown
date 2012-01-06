@@ -4,6 +4,7 @@ date: '2006-07-01 15:51:36'
 layout: post
 slug: '%e5%9c%a8%e9%a6%99%e6%b8%af%e7%bb%8f%e5%8e%86%e7%9a%84%e4%b8%80%e4%ba%9b%e4%ba%8b'
 status: publish
+comments: true
 title: 在香港经历的一些事
 wordpress_id: '138'
 ---

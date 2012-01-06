@@ -4,6 +4,7 @@ date: '2005-11-27 14:56:54'
 layout: post
 slug: habits-of-gold
 status: publish
+comments: true
 title: habits of gold
 wordpress_id: '298'
 ---

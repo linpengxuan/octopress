@@ -4,6 +4,7 @@ date: '2005-12-02 14:56:10'
 layout: post
 slug: leap
 status: publish
+comments: true
 title: leap
 wordpress_id: '292'
 ---

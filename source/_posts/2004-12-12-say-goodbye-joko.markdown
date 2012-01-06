@@ -4,6 +4,7 @@ date: '2004-12-12 11:57:02'
 layout: post
 slug: say-goodbye-joko
 status: publish
+comments: true
 title: say goodbye, Joko.
 wordpress_id: '420'
 ---

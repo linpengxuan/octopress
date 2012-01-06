@@ -4,6 +4,7 @@ date: '2007-01-15 15:41:00'
 layout: post
 slug: '%e8%bf%87%e5%8e%bb%ef%bc%8c%e7%8e%b0%e5%9c%a8%e5%92%8c%e6%9c%aa%e6%9d%a5%e3%80%82%e6%97%a0%e8%81%8a%e7%9a%84%e6%88%91'
 status: publish
+comments: true
 title: 过去，现在和未来。无聊的我
 wordpress_id: '109'
 ---

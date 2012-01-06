@@ -4,6 +4,7 @@ date: '2006-03-19 07:33:26'
 layout: post
 slug: '%e4%b8%80%e4%ba%9b%e4%b8%9c%e8%a5%bf%ef%bc%8c%e6%97%a0%e9%a2%98'
 status: publish
+comments: true
 title: 一些东西，无题
 wordpress_id: '179'
 categories:

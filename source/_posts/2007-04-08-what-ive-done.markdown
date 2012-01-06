@@ -4,6 +4,7 @@ date: '2007-04-08 12:59:49'
 layout: post
 slug: what-ive-done
 status: publish
+comments: true
 title: what I've done!
 wordpress_id: '75'
 ---

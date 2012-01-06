@@ -4,6 +4,7 @@ date: '2005-12-19 05:43:01'
 layout: post
 slug: the-good-thing-is-you-know-how-to-help-others-and-that-makes-u-feel-good
 status: publish
+comments: true
 title: the good thing is you know how to help others, and that makes u feel good.
 wordpress_id: '260'
 categories:

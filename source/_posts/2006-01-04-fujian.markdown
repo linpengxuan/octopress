@@ -4,6 +4,7 @@ date: '2006-01-04 13:42:14'
 layout: post
 slug: fujian
 status: publish
+comments: true
 title: fujian
 wordpress_id: '270'
 categories:

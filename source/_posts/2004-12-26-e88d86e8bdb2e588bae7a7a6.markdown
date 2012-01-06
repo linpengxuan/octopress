@@ -4,6 +4,7 @@ date: '2004-12-26 08:10:36'
 layout: post
 slug: '%e8%8d%86%e8%bd%b2%e5%88%ba%e7%a7%a6'
 status: publish
+comments: true
 title: 荆轲刺秦
 wordpress_id: '413'
 ---

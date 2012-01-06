@@ -4,6 +4,7 @@ date: '2005-05-10 08:10:51'
 layout: post
 slug: movie-i-am-expecting
 status: publish
+comments: true
 title: movie i am expecting
 wordpress_id: '339'
 ---

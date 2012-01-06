@@ -4,6 +4,7 @@ date: '2006-10-15 16:41:26'
 layout: post
 slug: diy-%e7%b2%be%e7%a5%9e
 status: publish
+comments: true
 title: DIY 精神
 wordpress_id: '111'
 categories:

@@ -4,6 +4,7 @@ date: '2006-02-03 01:54:19'
 layout: post
 slug: '%e6%88%91%e4%bb%ac%e8%8b%a6%e5%91%bd%e7%9a%84%e5%ad%a9%e5%ad%90%e4%bb%ac%e3%80%82'
 status: publish
+comments: true
 title: 我们苦命的孩子们。
 wordpress_id: '221'
 categories:

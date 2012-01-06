@@ -4,6 +4,7 @@ date: '2009-05-14 15:36:02'
 layout: post
 slug: '%e4%b8%a4%e9%9d%a2'
 status: publish
+comments: true
 title: 两面
 wordpress_id: '527'
 ---

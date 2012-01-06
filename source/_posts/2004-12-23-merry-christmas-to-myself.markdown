@@ -4,6 +4,7 @@ date: '2004-12-23 13:45:23'
 layout: post
 slug: merry-christmas-to-myself
 status: publish
+comments: true
 title: Merry Christmas to myself
 wordpress_id: '414'
 ---

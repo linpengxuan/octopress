@@ -4,6 +4,7 @@ date: '2007-01-18 13:47:09'
 layout: post
 slug: '%e3%80%8a%e4%ba%ae%e5%89%91%e3%80%8b-%e5%b0%be%e5%a3%b0'
 status: publish
+comments: true
 title: 《亮剑》 尾声
 wordpress_id: '103'
 ---

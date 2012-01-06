@@ -4,6 +4,7 @@ date: '2007-07-18 16:14:51'
 layout: post
 slug: '%e7%90%86%e8%b4%a2%e7%9a%84%e6%ad%a3%e9%9d%a2%e4%b8%8e%e5%8f%8d%e9%9d%a2%e6%95%99%e6%9d%90'
 status: publish
+comments: true
 title: 理财的正面与反面教材
 wordpress_id: '53'
 ---

@@ -4,6 +4,7 @@ date: '2006-08-19 04:53:48'
 layout: post
 slug: '%e7%9b%b8%e5%bd%93nb%e7%9a%84%e4%b8%ad%e5%9b%bd%e5%a4%a7%e4%bd%bf%e3%80%82%e3%80%82%e3%80%82%e7%9b%b8%e5%bd%93nb'
 status: publish
+comments: true
 title: 相当NB的中国大使。。。相当NB
 wordpress_id: '126'
 ---

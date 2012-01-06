@@ -4,6 +4,7 @@ date: '2006-02-26 12:11:33'
 layout: post
 slug: sth-about-linux
 status: publish
+comments: true
 title: sth about linux
 wordpress_id: '203'
 categories:

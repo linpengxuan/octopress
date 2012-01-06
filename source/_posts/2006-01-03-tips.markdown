@@ -4,6 +4,7 @@ date: '2006-01-03 02:16:27'
 layout: post
 slug: tips
 status: publish
+comments: true
 title: tips
 wordpress_id: '267'
 categories:

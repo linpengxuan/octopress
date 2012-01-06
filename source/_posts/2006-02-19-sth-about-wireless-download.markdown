@@ -4,6 +4,7 @@ date: '2006-02-19 14:39:05'
 layout: post
 slug: sth-about-wireless-download
 status: publish
+comments: true
 title: sth about wireless download
 wordpress_id: '210'
 categories:

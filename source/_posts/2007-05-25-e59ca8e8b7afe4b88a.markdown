@@ -4,6 +4,7 @@ date: '2007-05-25 03:18:00'
 layout: post
 slug: '%e5%9c%a8%e8%b7%af%e4%b8%8a'
 status: publish
+comments: true
 title: 在路上
 wordpress_id: '67'
 categories:

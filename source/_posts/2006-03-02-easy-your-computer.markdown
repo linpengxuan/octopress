@@ -4,6 +4,7 @@ date: '2006-03-02 15:50:31'
 layout: post
 slug: easy-your-computer
 status: publish
+comments: true
 title: easy your computer
 wordpress_id: '198'
 categories:

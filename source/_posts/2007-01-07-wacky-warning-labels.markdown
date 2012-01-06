@@ -4,6 +4,7 @@ date: '2007-01-07 16:04:27'
 layout: post
 slug: wacky-warning-labels
 status: publish
+comments: true
 title: Wacky Warning Labels
 wordpress_id: '112'
 ---

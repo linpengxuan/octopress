@@ -4,6 +4,7 @@ date: '2011-11-16 22:54:56'
 layout: post
 slug: '%e8%87%aa%e5%8a%9b%e6%9b%b4%e7%94%9f%ef%bc%8cdiy%e7%a7%bb%e6%b0%91%e5%8a%a0%e6%8b%bf%e5%a4%a7-%e8%8a%83%e8%90%b1'
 status: publish
+comments: true
 title: 自力更生，DIY加拿大 芃萱
 wordpress_id: '479'
 categories:

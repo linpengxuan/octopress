@@ -4,6 +4,7 @@ date: '2006-10-10 05:26:11'
 layout: post
 slug: the-good-old-days
 status: publish
+comments: true
 title: the good old days
 wordpress_id: '123'
 categories:

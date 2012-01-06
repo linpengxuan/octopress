@@ -4,6 +4,7 @@ date: '2006-07-01 04:37:59'
 layout: post
 slug: '%e4%b8%83%e4%b8%80%e5%9c%a8%e9%a6%99%e6%b8%af'
 status: publish
+comments: true
 title: 七一在香港
 wordpress_id: '140'
 ---

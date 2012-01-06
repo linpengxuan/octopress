@@ -4,6 +4,7 @@ date: '2007-12-29 11:17:31'
 layout: post
 slug: '%e5%85%ab%e6%9c%88%e5%9b%9e%e6%94%be%ef%bc%9a%e7%a6%bb%e5%8f%b8%e8%80%83%e5%8f%aa%e6%9c%89%e4%b8%80%e7%82%b9%e7%82%b9%e6%97%b6%e9%97%b4%e4%ba%86'
 status: publish
+comments: true
 title: 八月回放：离司考只有一点点时间了
 wordpress_id: '35'
 categories:

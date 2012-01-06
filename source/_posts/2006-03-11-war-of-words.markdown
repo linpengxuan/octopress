@@ -4,6 +4,7 @@ date: '2006-03-11 02:58:35'
 layout: post
 slug: war-of-words
 status: publish
+comments: true
 title: war of words
 wordpress_id: '186'
 categories:

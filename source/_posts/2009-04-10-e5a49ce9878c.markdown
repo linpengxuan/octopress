@@ -4,6 +4,7 @@ date: '2009-04-10 00:28:42'
 layout: post
 slug: '%e5%a4%9c%e9%87%8c'
 status: publish
+comments: true
 title: 夜里
 wordpress_id: '508'
 ---

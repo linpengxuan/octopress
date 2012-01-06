@@ -4,6 +4,7 @@ date: '2006-10-01 04:29:07'
 layout: post
 slug: for-time-killing
 status: publish
+comments: true
 title: for time killing
 wordpress_id: '105'
 categories:

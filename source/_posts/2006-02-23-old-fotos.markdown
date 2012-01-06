@@ -4,6 +4,7 @@ date: '2006-02-23 09:18:12'
 layout: post
 slug: old-fotos
 status: publish
+comments: true
 title: old fotos
 wordpress_id: '208'
 categories:

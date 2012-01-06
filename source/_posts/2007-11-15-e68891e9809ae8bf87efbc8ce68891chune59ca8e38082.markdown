@@ -4,6 +4,7 @@ date: '2007-11-15 15:06:14'
 layout: post
 slug: '%e6%88%91%e9%80%9a%e8%bf%87%ef%bc%8c%e6%88%91chun%e5%9c%a8%e3%80%82'
 status: publish
+comments: true
 title: 我通过，我chun在。
 wordpress_id: '40'
 categories:

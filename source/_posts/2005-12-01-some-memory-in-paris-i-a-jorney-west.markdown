@@ -4,6 +4,7 @@ date: '2005-12-01 02:39:24'
 layout: post
 slug: some-memory-in-paris-i-a-jorney-west
 status: publish
+comments: true
 title: some memory in Paris I---a jorney west
 wordpress_id: '295'
 ---

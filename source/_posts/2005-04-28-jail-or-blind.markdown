@@ -4,6 +4,7 @@ date: '2005-04-28 11:36:47'
 layout: post
 slug: jail-or-blind
 status: publish
+comments: true
 title: jail or blind
 wordpress_id: '344'
 ---

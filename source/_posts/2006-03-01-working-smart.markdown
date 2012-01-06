@@ -4,6 +4,7 @@ date: '2006-03-01 02:07:22'
 layout: post
 slug: working-smart
 status: publish
+comments: true
 title: working smart
 wordpress_id: '200'
 categories:

@@ -4,6 +4,7 @@ date: '2006-01-31 07:26:31'
 layout: post
 slug: several-stupid-reasons-converting-yourself-to-judiasm
 status: publish
+comments: true
 title: several stupid reasons converting yourself to Judiasm
 wordpress_id: '227'
 categories:

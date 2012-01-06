@@ -4,6 +4,7 @@ date: '2007-05-31 01:17:13'
 layout: post
 slug: '%e6%88%91%e7%88%b1%e6%8b%8d%e7%85%a7'
 status: publish
+comments: true
 title: 我爱拍照
 wordpress_id: '57'
 categories:

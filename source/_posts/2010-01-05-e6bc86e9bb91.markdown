@@ -4,6 +4,7 @@ date: '2010-01-05 23:33:00'
 layout: post
 slug: '%e6%bc%86%e9%bb%91'
 status: publish
+comments: true
 title: 漆黑
 wordpress_id: '535'
 ---

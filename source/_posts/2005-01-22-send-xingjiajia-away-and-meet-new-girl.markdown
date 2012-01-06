@@ -4,6 +4,7 @@ date: '2005-01-22 14:26:59'
 layout: post
 slug: send-xingjiajia-away-and-meet-new-girl
 status: publish
+comments: true
 title: send xingjiajia away, and meet new girl
 wordpress_id: '395'
 ---

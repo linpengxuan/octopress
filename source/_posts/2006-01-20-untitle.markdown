@@ -4,6 +4,7 @@ date: '2006-01-20 10:17:15'
 layout: post
 slug: untitle
 status: publish
+comments: true
 title: untitle
 wordpress_id: '244'
 categories:

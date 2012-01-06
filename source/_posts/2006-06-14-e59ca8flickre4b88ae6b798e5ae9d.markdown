@@ -4,6 +4,7 @@ date: '2006-06-14 11:03:52'
 layout: post
 slug: '%e5%9c%a8flickr%e4%b8%8a%e6%b7%98%e5%ae%9d'
 status: publish
+comments: true
 title: 在Flickr上淘宝
 wordpress_id: '142'
 categories:

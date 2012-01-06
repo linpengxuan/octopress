@@ -4,6 +4,7 @@ date: '2007-02-12 16:20:37'
 layout: post
 slug: pans-labyrinth
 status: publish
+comments: true
 title: Pan's Labyrinth
 wordpress_id: '97'
 categories:

@@ -4,6 +4,7 @@ date: '2005-06-14 06:21:48'
 layout: post
 slug: a-humble-heart
 status: publish
+comments: true
 title: a humble heart
 wordpress_id: '328'
 ---

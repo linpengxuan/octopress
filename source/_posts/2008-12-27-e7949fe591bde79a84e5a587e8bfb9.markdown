@@ -4,6 +4,7 @@ date: '2008-12-27 05:48:23'
 layout: post
 slug: '%e7%94%9f%e5%91%bd%e7%9a%84%e5%a5%87%e8%bf%b9'
 status: publish
+comments: true
 title: 生命的奇迹
 wordpress_id: '12'
 ---

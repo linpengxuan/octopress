@@ -4,6 +4,7 @@ date: '2006-03-27 16:19:13'
 layout: post
 slug: about-v-for-vendetta
 status: publish
+comments: true
 title: about V for Vendetta
 wordpress_id: '173'
 categories:

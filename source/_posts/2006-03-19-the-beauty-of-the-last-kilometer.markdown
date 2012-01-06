@@ -4,6 +4,7 @@ date: '2006-03-19 04:45:19'
 layout: post
 slug: the-beauty-of-the-last-kilometer
 status: publish
+comments: true
 title: the beauty of the last kilometer
 wordpress_id: '180'
 categories:

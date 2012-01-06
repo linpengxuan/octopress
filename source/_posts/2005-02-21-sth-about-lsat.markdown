@@ -4,6 +4,7 @@ date: '2005-02-21 03:12:36'
 layout: post
 slug: sth-about-lsat
 status: publish
+comments: true
 title: sth about LSAT
 wordpress_id: '373'
 ---

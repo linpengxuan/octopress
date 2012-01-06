@@ -4,6 +4,7 @@ date: '2006-12-04 15:59:05'
 layout: post
 slug: trip-in-sichuan
 status: publish
+comments: true
 title: trip in Sichuan
 wordpress_id: '117'
 categories:

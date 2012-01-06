@@ -4,6 +4,7 @@ date: '2005-03-24 03:06:39'
 layout: post
 slug: 15-stations-christ-fell-down
 status: publish
+comments: true
 title: 15 stations Christ fell down
 wordpress_id: '358'
 ---

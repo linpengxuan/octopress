@@ -4,6 +4,7 @@ date: '2006-03-04 02:09:27'
 layout: post
 slug: the-reasons-why-i-dont-upgrade-my-flickr
 status: publish
+comments: true
 title: the reasons why I don't upgrade my flickr
 wordpress_id: '194'
 categories:

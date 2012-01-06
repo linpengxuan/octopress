@@ -4,6 +4,7 @@ date: '2006-04-23 08:52:32'
 layout: post
 slug: an-inconvinient-truth
 status: publish
+comments: true
 title: an inconvinient truth
 wordpress_id: '165'
 categories:

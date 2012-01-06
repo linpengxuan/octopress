@@ -4,6 +4,7 @@ date: '2006-04-14 12:59:23'
 layout: post
 slug: happy-new-combodian-and-myamar-year
 status: publish
+comments: true
 title: Happy New Combodian and Myamar Year
 wordpress_id: '168'
 categories:

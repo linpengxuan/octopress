@@ -4,6 +4,7 @@ date: '2011-04-23 02:04:50'
 layout: post
 slug: '%e6%b7%b1%e5%a4%9c'
 status: publish
+comments: true
 title: 深夜
 wordpress_id: '541'
 ---

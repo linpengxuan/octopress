@@ -4,6 +4,7 @@ date: '2006-01-06 01:26:05'
 layout: post
 slug: perhaps-love
 status: publish
+comments: true
 title: Perhaps Love
 wordpress_id: '246'
 categories:

@@ -4,6 +4,7 @@ date: '2011-11-08 19:34:23'
 layout: post
 slug: '%e5%8f%af%e7%9f%ad%e6%9d%be%e4%b8%80%e5%8f%a3%e6%b0%94'
 status: publish
+comments: true
 title: 可短松一口气
 wordpress_id: '469'
 categories:

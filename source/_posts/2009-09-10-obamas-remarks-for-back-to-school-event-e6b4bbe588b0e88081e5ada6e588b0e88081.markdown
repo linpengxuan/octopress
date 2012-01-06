@@ -4,6 +4,7 @@ date: '2009-09-10 06:01:05'
 layout: post
 slug: obamas-remarks-for-back-to-school-event-%e6%b4%bb%e5%88%b0%e8%80%81%e5%ad%a6%e5%88%b0%e8%80%81
 status: publish
+comments: true
 title: Obama's remarks for back to school event, 活到老学到老
 wordpress_id: '448'
 categories:

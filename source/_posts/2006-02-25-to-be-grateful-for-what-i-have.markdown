@@ -4,6 +4,7 @@ date: '2006-02-25 14:55:48'
 layout: post
 slug: to-be-grateful-for-what-i-have
 status: publish
+comments: true
 title: to be grateful for what i have
 wordpress_id: '206'
 categories:

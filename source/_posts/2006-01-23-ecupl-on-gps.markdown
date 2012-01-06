@@ -4,6 +4,7 @@ date: '2006-01-23 01:58:44'
 layout: post
 slug: ecupl-on-gps
 status: publish
+comments: true
 title: ECUPL ON GPS
 wordpress_id: '239'
 categories:

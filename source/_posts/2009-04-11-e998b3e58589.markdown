@@ -4,6 +4,7 @@ date: '2009-04-11 14:14:08'
 layout: post
 slug: '%e9%98%b3%e5%85%89'
 status: publish
+comments: true
 title: 阳光
 wordpress_id: '509'
 ---

@@ -4,6 +4,7 @@ date: '2005-01-10 16:32:54'
 layout: post
 slug: white-tower
 status: publish
+comments: true
 title: white tower
 wordpress_id: '405'
 ---

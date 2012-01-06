@@ -4,6 +4,7 @@ date: '2005-11-22 06:47:52'
 layout: post
 slug: why-u-keep-amusing-us
 status: publish
+comments: true
 title: why u keep amusing US?
 wordpress_id: '299'
 ---

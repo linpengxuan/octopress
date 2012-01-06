@@ -4,6 +4,7 @@ date: '2006-01-31 08:33:16'
 layout: post
 slug: '%e9%a9%ac%e5%a4%a7%e5%b8%85'
 status: publish
+comments: true
 title: 马大帅
 wordpress_id: '224'
 categories:

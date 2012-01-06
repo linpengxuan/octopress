@@ -4,6 +4,7 @@ date: '2007-05-28 09:52:16'
 layout: post
 slug: '%e6%97%85%e8%a1%8c%e7%9a%84%e4%b8%80%e4%ba%9b%e4%b8%8d%e7%88%bd%e7%9a%84%e5%9c%b0%e6%96%b9'
 status: publish
+comments: true
 title: 旅行的一些不爽的地方
 wordpress_id: '66'
 categories:

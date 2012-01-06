@@ -4,6 +4,7 @@ date: '2005-06-07 10:48:06'
 layout: post
 slug: '%e4%b8%80%e4%ba%9b%e8%80%83%e8%af%95%e6%80%bb%e7%bb%93%ef%bc%8c%e5%8f%af%e8%83%bd%e5%a4%aa%e9%95%bf%e4%ba%86%e3%80%82%e4%b8%8d%e7%ae%a1%e4%ba%86%e3%80%82'
 status: publish
+comments: true
 title: 一些考试总结，可能太长了。不管了。
 wordpress_id: '334'
 ---

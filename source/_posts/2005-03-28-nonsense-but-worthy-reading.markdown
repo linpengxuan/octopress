@@ -4,6 +4,7 @@ date: '2005-03-28 08:23:35'
 layout: post
 slug: nonsense-but-worthy-reading
 status: publish
+comments: true
 title: nonsense but worthy reading
 wordpress_id: '354'
 ---

@@ -4,6 +4,7 @@ date: '2005-02-13 09:53:14'
 layout: post
 slug: cashem-in-advance
 status: publish
+comments: true
 title: cash'em in advance
 wordpress_id: '376'
 ---

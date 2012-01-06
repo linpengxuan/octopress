@@ -4,6 +4,7 @@ date: '2007-10-06 02:38:34'
 layout: post
 slug: '%e7%9f%a5%e9%81%93%e5%90%97%ef%bc%9f%e4%b8%96%e7%95%8c%e4%b8%8a%e8%bf%98%e6%9c%89%e8%bf%99%e4%b9%88%e6%97%a0%e8%81%8a%e7%9a%84%e4%ba%ba%e3%80%82%e3%80%82%e3%80%82%e6%97%a0%e8%af%ad%e5%8a%a0%e9%bb%98'
 status: publish
+comments: true
 title: 知道吗？世界上还有这么无聊的人。。。无语加默然
 wordpress_id: '45'
 ---

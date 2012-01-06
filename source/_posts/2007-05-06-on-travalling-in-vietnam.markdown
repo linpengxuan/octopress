@@ -4,6 +4,7 @@ date: '2007-05-06 01:28:22'
 layout: post
 slug: on-travalling-in-vietnam
 status: publish
+comments: true
 title: on travalling in Vietnam
 wordpress_id: '68'
 ---

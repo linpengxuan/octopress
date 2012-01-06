@@ -4,6 +4,7 @@ date: '2005-01-23 16:17:53'
 layout: post
 slug: '%e5%89%83%e5%a4%b4%e5%89%8d%e5%90%8e'
 status: publish
+comments: true
 title: 剃头前后
 wordpress_id: '394'
 ---

@@ -4,6 +4,7 @@ date: '2005-11-08 10:34:49'
 layout: post
 slug: '%e4%bb%8e%e6%b3%95%e5%9b%bd%e5%9b%9e%e6%9d%a5'
 status: publish
+comments: true
 title: 从法国回来
 wordpress_id: '312'
 ---

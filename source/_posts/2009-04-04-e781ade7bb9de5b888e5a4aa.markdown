@@ -4,6 +4,7 @@ date: '2009-04-04 20:47:12'
 layout: post
 slug: '%e7%81%ad%e7%bb%9d%e5%b8%88%e5%a4%aa'
 status: publish
+comments: true
 title: 灭绝师太
 wordpress_id: '500'
 ---

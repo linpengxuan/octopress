@@ -4,6 +4,7 @@ date: '2007-12-20 14:54:09'
 layout: post
 slug: 07%e5%b9%b4%e5%b2%81%e6%9c%ab%e5%a4%a7%e4%ba%8b%e8%ae%b0
 status: publish
+comments: true
 title: 07年岁末大事记
 wordpress_id: '38'
 categories:

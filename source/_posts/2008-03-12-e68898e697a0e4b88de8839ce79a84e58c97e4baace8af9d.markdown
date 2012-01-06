@@ -4,6 +4,7 @@ date: '2008-03-12 02:46:58'
 layout: post
 slug: '%e6%88%98%e6%97%a0%e4%b8%8d%e8%83%9c%e7%9a%84%e5%8c%97%e4%ba%ac%e8%af%9d'
 status: publish
+comments: true
 title: 战无不胜的北京话
 wordpress_id: '29'
 categories:

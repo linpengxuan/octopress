@@ -4,6 +4,7 @@ date: '2005-01-02 10:16:32'
 layout: post
 slug: drowned-world
 status: publish
+comments: true
 title: drowned world
 wordpress_id: '408'
 ---

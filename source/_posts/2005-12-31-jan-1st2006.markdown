@@ -4,6 +4,7 @@ date: '2005-12-31 07:13:25'
 layout: post
 slug: jan-1st2006
 status: publish
+comments: true
 title: Jan 1st,2006
 wordpress_id: '264'
 categories:

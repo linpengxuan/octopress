@@ -4,6 +4,7 @@ date: '2007-02-06 07:42:26'
 layout: post
 slug: '%e8%b0%83%e5%85%a5%e5%8e%a6%e9%97%a8'
 status: publish
+comments: true
 title: 调入厦门
 wordpress_id: '83'
 ---

@@ -4,6 +4,7 @@ date: '2005-12-02 04:00:32'
 layout: post
 slug: a-journey-west-ii-notre-dame%e5%b7%b4%e9%bb%8e%e5%9c%a3%e6%af%8d%e9%99%a2
 status: publish
+comments: true
 title: a journey west II -----Notre Dame巴黎圣母院
 wordpress_id: '293'
 ---

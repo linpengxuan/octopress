@@ -4,6 +4,7 @@ date: '2005-03-17 10:35:35'
 layout: post
 slug: '%e5%b4%87%e6%98%8e%e5%b0%8f%e5%9b%9e%e5%bf%86'
 status: publish
+comments: true
 title: 崇明小回忆
 wordpress_id: '361'
 ---

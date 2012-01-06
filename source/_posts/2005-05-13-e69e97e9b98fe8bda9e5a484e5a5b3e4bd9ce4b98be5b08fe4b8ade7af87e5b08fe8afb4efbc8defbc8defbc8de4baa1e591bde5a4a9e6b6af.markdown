@@ -4,6 +4,7 @@ date: '2005-05-13 06:25:11'
 layout: post
 slug: '%e6%9e%97%e9%b9%8f%e8%bd%a9%e5%a4%84%e5%a5%b3%e4%bd%9c%e4%b9%8b%e5%b0%8f%e4%b8%ad%e7%af%87%e5%b0%8f%e8%af%b4%ef%bc%8d%ef%bc%8d%ef%bc%8d%e4%ba%a1%e5%91%bd%e5%a4%a9%e6%b6%af'
 status: publish
+comments: true
 title: 林鹏轩处女作之小中篇小说－－－亡命天涯
 wordpress_id: '336'
 ---

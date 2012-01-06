@@ -4,6 +4,7 @@ date: '2006-11-21 11:31:26'
 layout: post
 slug: '%e5%8f%b8%e8%80%83%e6%88%90%e7%bb%a9%e5%87%ba%e6%9d%a5%e4%ba%86%e6%88%91%e5%8f%88%e6%b2%a1%e8%bf%87'
 status: publish
+comments: true
 title: 司考成绩出来了,我又没过.
 wordpress_id: '120'
 ---

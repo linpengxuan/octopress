@@ -4,6 +4,7 @@ date: '2008-09-14 13:53:14'
 layout: post
 slug: '%e8%87%aa%e6%8b%8d%e5%86%99%e7%9c%9f'
 status: publish
+comments: true
 title: 自拍写真
 wordpress_id: '17'
 categories:

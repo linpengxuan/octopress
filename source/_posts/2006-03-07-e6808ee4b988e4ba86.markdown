@@ -4,6 +4,7 @@ date: '2006-03-07 00:28:58'
 layout: post
 slug: '%e6%80%8e%e4%b9%88%e4%ba%86'
 status: publish
+comments: true
 title: 怎么了
 wordpress_id: '189'
 categories:

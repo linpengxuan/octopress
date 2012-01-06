@@ -4,6 +4,7 @@ date: '2005-11-29 13:34:02'
 layout: post
 slug: name
 status: publish
+comments: true
 title: name
 wordpress_id: '297'
 ---

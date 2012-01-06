@@ -4,6 +4,7 @@ date: '2005-02-04 10:18:02'
 layout: post
 slug: beauty-of-english
 status: publish
+comments: true
 title: beauty of english
 wordpress_id: '383'
 ---

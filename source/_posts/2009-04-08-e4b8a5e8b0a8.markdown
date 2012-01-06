@@ -4,6 +4,7 @@ date: '2009-04-08 16:55:05'
 layout: post
 slug: '%e4%b8%a5%e8%b0%a8'
 status: publish
+comments: true
 title: 严谨
 wordpress_id: '506'
 ---

@@ -4,6 +4,7 @@ date: '2005-01-06 02:17:57'
 layout: post
 slug: fail-to-plan-plan-to-fail
 status: publish
+comments: true
 title: fail to plan, plan to fail
 wordpress_id: '406'
 ---

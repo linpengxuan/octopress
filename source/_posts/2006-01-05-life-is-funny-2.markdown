@@ -4,6 +4,7 @@ date: '2006-01-05 02:42:14'
 layout: post
 slug: life-is-funny-2
 status: publish
+comments: true
 title: LIFE IS FUNNY
 wordpress_id: '229'
 categories:

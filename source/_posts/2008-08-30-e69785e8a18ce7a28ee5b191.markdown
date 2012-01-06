@@ -4,6 +4,7 @@ date: '2008-08-30 13:34:24'
 layout: post
 slug: '%e6%97%85%e8%a1%8c%e7%a2%8e%e5%b1%91'
 status: publish
+comments: true
 title: 旅行碎屑
 wordpress_id: '18'
 categories:

@@ -4,6 +4,7 @@ date: '2004-12-08 11:12:16'
 layout: post
 slug: belief-in-heart
 status: publish
+comments: true
 title: belief in heart
 wordpress_id: '422'
 ---

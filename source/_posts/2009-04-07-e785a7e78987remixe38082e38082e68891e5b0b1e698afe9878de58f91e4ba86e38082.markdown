@@ -4,6 +4,7 @@ date: '2009-04-07 13:33:26'
 layout: post
 slug: '%e7%85%a7%e7%89%87remix%e3%80%82%e3%80%82%e6%88%91%e5%b0%b1%e6%98%af%e9%87%8d%e5%8f%91%e4%ba%86%e3%80%82'
 status: publish
+comments: true
 title: 照片remix。。我就是重发了。
 wordpress_id: '8'
 categories:

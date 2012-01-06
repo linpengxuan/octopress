@@ -4,6 +4,7 @@ date: '2006-01-31 08:23:15'
 layout: post
 slug: '%e7%bb%99%e6%88%91senior%e9%87%91%e6%b2%bb%e5%86%9b%e5%90%8c%e5%ad%a6%e7%9a%84%e4%b8%80%e5%b0%81%e4%bf%a1'
 status: publish
+comments: true
 title: 给我senior金治军同学的一封信
 wordpress_id: '226'
 categories:

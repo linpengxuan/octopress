@@ -4,6 +4,7 @@ date: '2006-01-11 02:11:02'
 layout: post
 slug: talk-with-president
 status: publish
+comments: true
 title: talk with president
 wordpress_id: '250'
 categories:

@@ -4,6 +4,7 @@ date: '2005-01-21 15:24:58'
 layout: post
 slug: miracles-happen-everyday
 status: publish
+comments: true
 title: Miracles happen everyday.
 wordpress_id: '398'
 ---

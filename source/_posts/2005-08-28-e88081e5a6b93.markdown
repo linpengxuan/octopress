@@ -4,6 +4,7 @@ date: '2005-08-28 06:28:29'
 layout: post
 slug: '%e8%80%81%e5%a6%b93'
 status: publish
+comments: true
 title: 老妹3
 wordpress_id: '318'
 ---

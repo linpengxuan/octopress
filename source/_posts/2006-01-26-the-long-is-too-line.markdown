@@ -4,6 +4,7 @@ date: '2006-01-26 01:03:37'
 layout: post
 slug: the-long-is-too-line
 status: publish
+comments: true
 title: the long is too line
 wordpress_id: '236'
 categories:

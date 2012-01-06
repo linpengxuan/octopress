@@ -4,6 +4,7 @@ date: '2011-01-17 16:24:16'
 layout: post
 slug: '%e9%bc%bb%e7%82%8e%e5%bc%80%e5%88%80'
 status: publish
+comments: true
 title: 鼻炎开刀
 wordpress_id: '450'
 categories:

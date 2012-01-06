@@ -4,6 +4,7 @@ date: '2007-03-12 16:22:19'
 layout: post
 slug: '%e5%85%b3%e4%ba%8e%e7%a5%9e%ef%bc%8e'
 status: publish
+comments: true
 title: 关于神．
 wordpress_id: '86'
 categories:

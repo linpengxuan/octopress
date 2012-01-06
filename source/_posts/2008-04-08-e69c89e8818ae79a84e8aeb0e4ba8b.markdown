@@ -4,6 +4,7 @@ date: '2008-04-08 15:22:11'
 layout: post
 slug: '%e6%9c%89%e8%81%8a%e7%9a%84%e8%ae%b0%e4%ba%8b'
 status: publish
+comments: true
 title: 有聊的记事
 wordpress_id: '24'
 ---

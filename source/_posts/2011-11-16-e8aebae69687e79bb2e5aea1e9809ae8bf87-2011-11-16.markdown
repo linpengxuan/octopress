@@ -4,6 +4,7 @@ date: '2011-11-16 17:00:01'
 layout: post
 slug: '%e8%ae%ba%e6%96%87%e7%9b%b2%e5%ae%a1%e9%80%9a%e8%bf%87-2011-11-16'
 status: publish
+comments: true
 title: 论文盲审通过 2011-11-16
 wordpress_id: '476'
 categories:

@@ -4,6 +4,7 @@ date: '2007-04-30 14:08:40'
 layout: post
 slug: arrival-in-vietnam-from-ha-long-bay-to-ha-noi
 status: publish
+comments: true
 title: arrival in Vietnam, from Ha Long Bay to Ha Noi
 wordpress_id: '69'
 ---

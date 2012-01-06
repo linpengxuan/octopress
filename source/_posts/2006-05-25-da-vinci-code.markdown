@@ -4,6 +4,7 @@ date: '2006-05-25 14:37:49'
 layout: post
 slug: da-vinci-code
 status: publish
+comments: true
 title: Da Vinci Code
 wordpress_id: '156'
 categories:

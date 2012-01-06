@@ -4,6 +4,7 @@ date: '2009-04-24 13:14:43'
 layout: post
 slug: '%e5%b1%8f%e8%94%bd'
 status: publish
+comments: true
 title: 屏蔽
 wordpress_id: '523'
 ---

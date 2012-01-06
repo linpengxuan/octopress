@@ -4,6 +4,7 @@ date: '2005-06-12 07:26:55'
 layout: post
 slug: what-a-wonderful-world
 status: publish
+comments: true
 title: what a wonderful world
 wordpress_id: '330'
 ---

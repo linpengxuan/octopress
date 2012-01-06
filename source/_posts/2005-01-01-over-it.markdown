@@ -4,6 +4,7 @@ date: '2005-01-01 00:42:49'
 layout: post
 slug: over-it
 status: publish
+comments: true
 title: over it.
 wordpress_id: '410'
 ---

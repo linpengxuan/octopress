@@ -4,6 +4,7 @@ date: '2005-06-12 13:25:32'
 layout: post
 slug: a-sudden-thought-go-marathoning
 status: publish
+comments: true
 title: A sudden thought----- go marathoning.
 wordpress_id: '329'
 ---

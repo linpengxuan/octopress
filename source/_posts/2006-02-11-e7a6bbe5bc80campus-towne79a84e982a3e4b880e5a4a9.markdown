@@ -4,6 +4,7 @@ date: '2006-02-11 06:15:01'
 layout: post
 slug: '%e7%a6%bb%e5%bc%80campus-town%e7%9a%84%e9%82%a3%e4%b8%80%e5%a4%a9'
 status: publish
+comments: true
 title: 离开campus town的那一天
 wordpress_id: '218'
 categories:

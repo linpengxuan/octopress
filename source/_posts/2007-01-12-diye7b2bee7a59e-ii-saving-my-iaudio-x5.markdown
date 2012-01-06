@@ -4,6 +4,7 @@ date: '2007-01-12 12:06:02'
 layout: post
 slug: diy%e7%b2%be%e7%a5%9e-ii-saving-my-iaudio-x5
 status: publish
+comments: true
 title: DIY精神 II---saving my iAudio X5
 wordpress_id: '110'
 categories:

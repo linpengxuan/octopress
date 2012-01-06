@@ -4,6 +4,7 @@ date: '2006-06-07 01:23:53'
 layout: post
 slug: u-freak
 status: publish
+comments: true
 title: u freak?
 wordpress_id: '146'
 categories:

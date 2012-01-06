@@ -4,6 +4,7 @@ date: '2006-05-23 11:55:55'
 layout: post
 slug: '%e6%8a%95%e6%9c%ba%e6%88%bf%e5%9c%b0%e4%ba%a7'
 status: publish
+comments: true
 title: 投机房地产
 wordpress_id: '157'
 categories:

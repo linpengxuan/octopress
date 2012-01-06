@@ -4,6 +4,7 @@ date: '2006-05-28 11:21:39'
 layout: post
 slug: '%e5%8f%88%e4%b8%80%e4%b8%aa%e7%ac%91%e8%af%9d'
 status: publish
+comments: true
 title: 又一个笑话
 wordpress_id: '152'
 categories:

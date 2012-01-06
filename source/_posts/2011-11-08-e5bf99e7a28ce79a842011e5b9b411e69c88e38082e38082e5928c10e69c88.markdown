@@ -4,6 +4,7 @@ date: '2011-11-08 14:57:10'
 layout: post
 slug: '%e5%bf%99%e7%a2%8c%e7%9a%842011%e5%b9%b411%e6%9c%88%e3%80%82%e3%80%82%e5%92%8c10%e6%9c%88'
 status: publish
+comments: true
 title: 忙碌的2011年11月。。和10月
 wordpress_id: '465'
 categories:

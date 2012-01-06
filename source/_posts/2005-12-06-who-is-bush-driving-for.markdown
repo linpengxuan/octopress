@@ -4,6 +4,7 @@ date: '2005-12-06 05:52:26'
 layout: post
 slug: who-is-bush-driving-for
 status: publish
+comments: true
 title: who is BUSH driving for?
 wordpress_id: '289'
 ---

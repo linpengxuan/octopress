@@ -4,6 +4,7 @@ date: '2009-03-31 16:25:39'
 layout: post
 slug: '%e6%9c%89%e5%a4%9a%e8%bf%9c%ef%bc%8c%e8%b5%b0%e5%a4%9a%e8%bf%9c'
 status: publish
+comments: true
 title: 有多远，走多远
 wordpress_id: '497'
 ---

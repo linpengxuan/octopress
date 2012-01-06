@@ -4,6 +4,7 @@ date: '2007-02-03 15:54:29'
 layout: post
 slug: life-is-funny
 status: publish
+comments: true
 title: LIFE IS FUNNY
 wordpress_id: '100'
 ---

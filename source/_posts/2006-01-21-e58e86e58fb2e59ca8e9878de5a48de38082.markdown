@@ -4,6 +4,7 @@ date: '2006-01-21 00:32:49'
 layout: post
 slug: '%e5%8e%86%e5%8f%b2%e5%9c%a8%e9%87%8d%e5%a4%8d%e3%80%82'
 status: publish
+comments: true
 title: 历史在重复。
 wordpress_id: '242'
 categories:

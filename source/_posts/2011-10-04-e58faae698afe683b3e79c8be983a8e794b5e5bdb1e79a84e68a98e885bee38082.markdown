@@ -4,6 +4,7 @@ date: '2011-10-04 09:11:13'
 layout: post
 slug: '%e5%8f%aa%e6%98%af%e6%83%b3%e7%9c%8b%e9%83%a8%e7%94%b5%e5%bd%b1%e7%9a%84%e6%8a%98%e8%85%be%e3%80%82'
 status: publish
+comments: true
 title: 只是想看部电影的折腾。
 wordpress_id: '461'
 ---

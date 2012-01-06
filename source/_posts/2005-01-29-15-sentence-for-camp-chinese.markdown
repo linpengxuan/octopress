@@ -4,6 +4,7 @@ date: '2005-01-29 02:44:16'
 layout: post
 slug: 15-sentence-for-camp-chinese
 status: publish
+comments: true
 title: 15 sentence for camp , chinese
 wordpress_id: '391'
 ---

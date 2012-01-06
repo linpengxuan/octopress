@@ -4,6 +4,7 @@ date: '2011-11-25 08:42:31'
 layout: post
 slug: words-i-came-across-cant-help-sharing-that-is-beautiful
 status: publish
+comments: true
 title: words I came across, can't help sharing....that is beautiful.
 wordpress_id: '488'
 categories:

@@ -4,6 +4,7 @@ date: '2006-01-01 12:16:56'
 layout: post
 slug: some-thoughts
 status: publish
+comments: true
 title: some thoughts
 wordpress_id: '265'
 categories:

@@ -4,6 +4,7 @@ date: '2007-02-09 15:04:27'
 layout: post
 slug: '%e4%b8%a4%e5%a4%b4%e7%8b%97%e6%89%93%e7%90%83'
 status: publish
+comments: true
 title: 两头狗打球
 wordpress_id: '98'
 ---

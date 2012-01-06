@@ -4,6 +4,7 @@ date: '2009-04-06 20:03:59'
 layout: post
 slug: '%e8%8a%b1%e7%97%b4'
 status: publish
+comments: true
 title: 花痴
 wordpress_id: '503'
 ---

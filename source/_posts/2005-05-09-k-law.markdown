@@ -4,6 +4,7 @@ date: '2005-05-09 02:49:14'
 layout: post
 slug: k-law
 status: publish
+comments: true
 title: K law
 wordpress_id: '341'
 ---

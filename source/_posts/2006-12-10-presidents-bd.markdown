@@ -4,6 +4,7 @@ date: '2006-12-10 13:32:47'
 layout: post
 slug: presidents-bd
 status: publish
+comments: true
 title: President’s BD
 wordpress_id: '114'
 ---

@@ -4,6 +4,7 @@ date: '2006-01-24 10:33:12'
 layout: post
 slug: funny-video-blog
 status: publish
+comments: true
 title: Funny video blog
 wordpress_id: '231'
 categories:

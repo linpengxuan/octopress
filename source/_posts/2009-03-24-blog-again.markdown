@@ -4,6 +4,7 @@ date: '2009-03-24 11:53:39'
 layout: post
 slug: blog-again
 status: publish
+comments: true
 title: blog again
 wordpress_id: '494'
 ---

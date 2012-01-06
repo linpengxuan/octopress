@@ -4,6 +4,7 @@ date: '2006-01-22 11:54:33'
 layout: post
 slug: something-to-download
 status: publish
+comments: true
 title: something to download
 wordpress_id: '241'
 categories:

@@ -4,6 +4,7 @@ date: '2006-02-19 13:35:56'
 layout: post
 slug: '%e6%88%91%e5%92%8c%e6%88%91%e7%9a%84%e5%ae%a4%e5%8f%8b'
 status: publish
+comments: true
 title: 我和我的室友
 wordpress_id: '211'
 categories:

@@ -4,6 +4,7 @@ date: '2006-02-25 11:36:39'
 layout: post
 slug: what-is-up
 status: publish
+comments: true
 title: what is up
 wordpress_id: '205'
 categories:

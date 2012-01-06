@@ -4,6 +4,7 @@ date: '2009-03-27 00:04:41'
 layout: post
 slug: '%e6%88%91%e4%bb%ac%e5%9c%a8%e8%81%8a%e5%a4%a9'
 status: publish
+comments: true
 title: 我们在聊天
 wordpress_id: '496'
 ---

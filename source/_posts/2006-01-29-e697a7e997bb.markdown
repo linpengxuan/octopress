@@ -4,6 +4,7 @@ date: '2006-01-29 03:33:36'
 layout: post
 slug: '%e6%97%a7%e9%97%bb'
 status: publish
+comments: true
 title: 旧闻
 wordpress_id: '234'
 categories:

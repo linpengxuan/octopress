@@ -4,6 +4,7 @@ date: '2006-04-09 14:33:27'
 layout: post
 slug: '%e4%b8%80%e4%ba%9b%e5%b0%8f%e4%b9%a6'
 status: publish
+comments: true
 title: 一些小书
 wordpress_id: '170'
 categories:

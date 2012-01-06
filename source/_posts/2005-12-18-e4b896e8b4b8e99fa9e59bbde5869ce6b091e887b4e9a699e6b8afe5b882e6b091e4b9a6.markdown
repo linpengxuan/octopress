@@ -4,6 +4,7 @@ date: '2005-12-18 12:17:34'
 layout: post
 slug: '%e4%b8%96%e8%b4%b8%e9%9f%a9%e5%9b%bd%e5%86%9c%e6%b0%91%e8%87%b4%e9%a6%99%e6%b8%af%e5%b8%82%e6%b0%91%e4%b9%a6'
 status: publish
+comments: true
 title: 世贸韩国农民致香港市民书
 wordpress_id: '280'
 categories:

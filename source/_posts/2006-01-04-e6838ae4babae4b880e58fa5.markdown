@@ -4,6 +4,7 @@ date: '2006-01-04 13:44:44'
 layout: post
 slug: '%e6%83%8a%e4%ba%ba%e4%b8%80%e5%8f%a5'
 status: publish
+comments: true
 title: 惊人一句
 wordpress_id: '254'
 categories:

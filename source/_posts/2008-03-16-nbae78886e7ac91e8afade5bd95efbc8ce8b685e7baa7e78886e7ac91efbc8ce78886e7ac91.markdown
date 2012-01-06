@@ -4,6 +4,7 @@ date: '2008-03-16 09:03:32'
 layout: post
 slug: nba%e7%88%86%e7%ac%91%e8%af%ad%e5%bd%95%ef%bc%8c%e8%b6%85%e7%ba%a7%e7%88%86%e7%ac%91%ef%bc%8c%e7%88%86%e7%ac%91
 status: publish
+comments: true
 title: NBA爆笑语录，超级爆笑，爆笑
 wordpress_id: '26'
 ---

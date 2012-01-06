@@ -4,6 +4,7 @@ date: '2005-12-11 04:58:44'
 layout: post
 slug: happy-birthday-president
 status: publish
+comments: true
 title: Happy Birthday, President
 wordpress_id: '285'
 ---

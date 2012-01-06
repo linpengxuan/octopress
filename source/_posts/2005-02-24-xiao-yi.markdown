@@ -4,6 +4,7 @@ date: '2005-02-24 15:37:13'
 layout: post
 slug: xiao-yi
 status: publish
+comments: true
 title: xiao yi
 wordpress_id: '371'
 ---

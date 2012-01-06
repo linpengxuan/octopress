@@ -4,6 +4,7 @@ date: '2006-01-23 23:24:32'
 layout: post
 slug: photo-expo
 status: publish
+comments: true
 title: Photo ExPo
 wordpress_id: '238'
 categories:

@@ -4,6 +4,7 @@ date: '2007-09-18 06:38:08'
 layout: post
 slug: '%e7%9e%8e%e5%bf%99'
 status: publish
+comments: true
 title: 瞎忙
 wordpress_id: '48'
 ---

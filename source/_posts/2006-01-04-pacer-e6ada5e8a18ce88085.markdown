@@ -4,6 +4,7 @@ date: '2006-01-04 13:41:39'
 layout: post
 slug: pacer-%e6%ad%a5%e8%a1%8c%e8%80%85
 status: publish
+comments: true
 title: Pacer.        步行者
 wordpress_id: '255'
 categories:

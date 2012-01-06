@@ -4,6 +4,7 @@ date: '2006-01-04 13:26:27'
 layout: post
 slug: my-ecupl
 status: publish
+comments: true
 title: my ECUPL
 wordpress_id: '269'
 categories:

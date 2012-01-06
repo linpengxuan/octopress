@@ -4,6 +4,7 @@ date: '2005-03-01 11:01:16'
 layout: post
 slug: game-section
 status: publish
+comments: true
 title: game section
 wordpress_id: '367'
 ---

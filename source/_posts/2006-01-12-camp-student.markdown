@@ -4,6 +4,7 @@ date: '2006-01-12 00:14:56'
 layout: post
 slug: camp-student
 status: publish
+comments: true
 title: camp student
 wordpress_id: '251'
 categories:

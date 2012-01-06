@@ -4,6 +4,7 @@ date: '2006-03-05 00:53:15'
 layout: post
 slug: 3-little-stories-from-seteven-jobs
 status: publish
+comments: true
 title: 3 little stories from Seteven Jobs.
 wordpress_id: '192'
 categories:

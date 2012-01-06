@@ -4,6 +4,7 @@ date: '2006-01-21 13:07:23'
 layout: post
 slug: '%e6%88%91%e7%9a%84%e6%9c%ac%e5%91%bd%e5%b9%b4'
 status: publish
+comments: true
 title: 我的本命年
 wordpress_id: '243'
 categories:

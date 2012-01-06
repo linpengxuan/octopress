@@ -4,6 +4,7 @@ date: '2008-07-24 14:58:09'
 layout: post
 slug: '%e6%88%91%e7%9a%84%e8%bd%a6%e4%b8%a2%e4%ba%86'
 status: publish
+comments: true
 title: 我的车丢了
 wordpress_id: '21'
 categories:

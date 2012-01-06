@@ -4,6 +4,7 @@ date: '2005-08-10 06:26:32'
 layout: post
 slug: lao-mei2
 status: publish
+comments: true
 title: lao mei2
 wordpress_id: '319'
 ---

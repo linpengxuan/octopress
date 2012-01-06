@@ -4,6 +4,7 @@ date: '2008-02-12 04:16:33'
 layout: post
 slug: zt-%e7%8e%b0%e4%bb%a3%e8%8b%b1%e8%af%ad%e5%90%ac%e5%8a%9b%e4%b8%aa%e4%ba%ba%e7%ae%80%e6%98%8e%e6%95%99%e7%a8%8b
 status: publish
+comments: true
 title: 'zt: 现代英语听力个人简明教程'
 wordpress_id: '32'
 categories:

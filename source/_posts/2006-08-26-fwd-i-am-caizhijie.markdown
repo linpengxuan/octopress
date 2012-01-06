@@ -4,6 +4,7 @@ date: '2006-08-26 00:09:37'
 layout: post
 slug: fwd-i-am-caizhijie
 status: publish
+comments: true
 title: 'Fwd: i am caizhijie'
 wordpress_id: '125'
 ---

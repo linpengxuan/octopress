@@ -4,6 +4,7 @@ date: '2006-05-27 11:23:36'
 layout: post
 slug: damn-fat
 status: publish
+comments: true
 title: damn Fat
 wordpress_id: '153'
 categories:

@@ -4,6 +4,7 @@ date: '2008-12-24 15:48:03'
 layout: post
 slug: feliz-navidad
 status: publish
+comments: true
 title: Feliz Navidad
 wordpress_id: '13'
 categories:

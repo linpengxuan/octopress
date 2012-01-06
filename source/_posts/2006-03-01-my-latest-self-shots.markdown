@@ -4,6 +4,7 @@ date: '2006-03-01 08:45:24'
 layout: post
 slug: my-latest-self-shots
 status: publish
+comments: true
 title: my latest self-shots
 wordpress_id: '199'
 categories:

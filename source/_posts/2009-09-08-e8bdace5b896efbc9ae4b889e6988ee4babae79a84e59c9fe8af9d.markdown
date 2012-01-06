@@ -4,6 +4,7 @@ date: '2009-09-08 05:52:40'
 layout: post
 slug: '%e8%bd%ac%e5%b8%96%ef%bc%9a%e4%b8%89%e6%98%8e%e4%ba%ba%e7%9a%84%e5%9c%9f%e8%af%9d'
 status: publish
+comments: true
 title: 转帖：三明人的土话
 wordpress_id: '449'
 ---

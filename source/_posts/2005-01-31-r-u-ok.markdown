@@ -4,6 +4,7 @@ date: '2005-01-31 02:06:02'
 layout: post
 slug: r-u-ok
 status: publish
+comments: true
 title: r u ok.
 wordpress_id: '388'
 ---

@@ -4,6 +4,7 @@ date: '2007-03-28 11:53:04'
 layout: post
 slug: for-fun
 status: publish
+comments: true
 title: for fun
 wordpress_id: '54'
 categories:

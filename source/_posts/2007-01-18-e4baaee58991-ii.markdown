@@ -4,6 +4,7 @@ date: '2007-01-18 14:14:08'
 layout: post
 slug: '%e4%ba%ae%e5%89%91-ii'
 status: publish
+comments: true
 title: 亮剑 II
 wordpress_id: '102'
 ---

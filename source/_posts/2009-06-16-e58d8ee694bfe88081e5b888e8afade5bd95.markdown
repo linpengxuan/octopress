@@ -4,6 +4,7 @@ date: '2009-06-16 14:34:03'
 layout: post
 slug: '%e5%8d%8e%e6%94%bf%e8%80%81%e5%b8%88%e8%af%ad%e5%bd%95'
 status: publish
+comments: true
 title: 华政老师语录
 wordpress_id: '6'
 categories:

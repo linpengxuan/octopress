@@ -4,6 +4,7 @@ date: '2005-12-12 02:59:18'
 layout: post
 slug: at-last
 status: publish
+comments: true
 title: at last.
 wordpress_id: '283'
 ---

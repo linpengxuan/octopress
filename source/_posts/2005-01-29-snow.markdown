@@ -4,6 +4,7 @@ date: '2005-01-29 02:42:19'
 layout: post
 slug: snow
 status: publish
+comments: true
 title: snow
 wordpress_id: '392'
 ---

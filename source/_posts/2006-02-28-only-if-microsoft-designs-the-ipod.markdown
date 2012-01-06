@@ -4,6 +4,7 @@ date: '2006-02-28 15:52:23'
 layout: post
 slug: only-if-microsoft-designs-the-ipod
 status: publish
+comments: true
 title: only if microsoft designs the iPod
 wordpress_id: '201'
 categories:

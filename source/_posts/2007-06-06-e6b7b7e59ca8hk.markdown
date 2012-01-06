@@ -4,6 +4,7 @@ date: '2007-06-06 01:37:06'
 layout: post
 slug: '%e6%b7%b7%e5%9c%a8hk'
 status: publish
+comments: true
 title: 混在HK
 wordpress_id: '64'
 categories:

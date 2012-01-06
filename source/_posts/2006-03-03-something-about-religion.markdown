@@ -4,6 +4,7 @@ date: '2006-03-03 06:19:07'
 layout: post
 slug: something-about-religion
 status: publish
+comments: true
 title: something about religion
 wordpress_id: '196'
 categories:

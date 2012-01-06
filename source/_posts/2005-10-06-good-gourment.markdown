@@ -4,6 +4,7 @@ date: '2005-10-06 16:40:34'
 layout: post
 slug: good-gourment
 status: publish
+comments: true
 title: good gourment
 wordpress_id: '316'
 ---

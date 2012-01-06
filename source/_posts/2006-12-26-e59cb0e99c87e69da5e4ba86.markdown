@@ -4,6 +4,7 @@ date: '2006-12-26 15:43:11'
 layout: post
 slug: '%e5%9c%b0%e9%9c%87%e6%9d%a5%e4%ba%86'
 status: publish
+comments: true
 title: 地震来了
 wordpress_id: '113'
 ---

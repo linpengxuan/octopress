@@ -4,6 +4,7 @@ date: '2007-11-12 06:20:41'
 layout: post
 slug: '%e7%ac%ac25%e4%b8%aa%e7%94%9f%e6%97%a5'
 status: publish
+comments: true
 title: 第25个生日
 wordpress_id: '41'
 categories:

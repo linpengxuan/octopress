@@ -4,6 +4,7 @@ date: '2005-11-12 16:51:22'
 layout: post
 slug: to-pampam
 status: publish
+comments: true
 title: to pampam
 wordpress_id: '309'
 ---

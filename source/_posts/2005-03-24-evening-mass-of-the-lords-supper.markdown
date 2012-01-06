@@ -4,6 +4,7 @@ date: '2005-03-24 12:53:33'
 layout: post
 slug: evening-mass-of-the-lords-supper
 status: publish
+comments: true
 title: evening mass of the Lord's Supper
 wordpress_id: '356'
 ---

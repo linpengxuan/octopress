@@ -4,6 +4,7 @@ date: '2006-03-30 11:18:36'
 layout: post
 slug: pension-crisis
 status: publish
+comments: true
 title: pension crisis
 wordpress_id: '172'
 categories:

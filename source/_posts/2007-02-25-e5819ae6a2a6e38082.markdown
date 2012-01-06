@@ -4,6 +4,7 @@ date: '2007-02-25 17:15:15'
 layout: post
 slug: '%e5%81%9a%e6%a2%a6%e3%80%82'
 status: publish
+comments: true
 title: 做梦。
 wordpress_id: '95'
 categories:

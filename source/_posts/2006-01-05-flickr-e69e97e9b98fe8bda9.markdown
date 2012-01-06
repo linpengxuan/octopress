@@ -4,6 +4,7 @@ date: '2006-01-05 02:42:55'
 layout: post
 slug: flickr-%e6%9e%97%e9%b9%8f%e8%bd%a9
 status: publish
+comments: true
 title: Flickr 林鹏轩
 wordpress_id: '232'
 categories:

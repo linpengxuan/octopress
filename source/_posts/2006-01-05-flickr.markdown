@@ -4,6 +4,7 @@ date: '2006-01-05 02:43:15'
 layout: post
 slug: flickr
 status: publish
+comments: true
 title: Flickr
 wordpress_id: '233'
 categories:

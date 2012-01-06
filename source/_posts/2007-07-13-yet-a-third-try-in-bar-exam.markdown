@@ -4,6 +4,7 @@ date: '2007-07-13 02:06:35'
 layout: post
 slug: yet-a-third-try-in-bar-exam
 status: publish
+comments: true
 title: yet a third try in bar exam
 wordpress_id: '60'
 ---

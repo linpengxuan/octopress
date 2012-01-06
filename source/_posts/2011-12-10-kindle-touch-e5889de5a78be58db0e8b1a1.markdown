@@ -4,6 +4,7 @@ date: '2011-12-10 00:08:00'
 layout: post
 slug: kindle-touch-%e5%88%9d%e5%a7%8b%e5%8d%b0%e8%b1%a1
 status: publish
+comments: true
 title: kindle touch 初始印象
 wordpress_id: '489'
 categories:

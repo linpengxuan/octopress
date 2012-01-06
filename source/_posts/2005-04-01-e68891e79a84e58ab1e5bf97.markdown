@@ -4,6 +4,7 @@ date: '2005-04-01 11:10:20'
 layout: post
 slug: '%e6%88%91%e7%9a%84%e5%8a%b1%e5%bf%97'
 status: publish
+comments: true
 title: 我的励志
 wordpress_id: '353'
 ---

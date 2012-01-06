@@ -4,6 +4,7 @@ date: '2005-06-22 06:22:16'
 layout: post
 slug: '%e6%88%91%e4%bb%ac%e4%b8%80%e7%9b%b4%e5%9c%a8%e8%80%83%e8%af%95'
 status: publish
+comments: true
 title: 我们一直在考试
 wordpress_id: '324'
 ---

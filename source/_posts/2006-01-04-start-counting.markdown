@@ -4,6 +4,7 @@ date: '2006-01-04 02:19:07'
 layout: post
 slug: start-counting
 status: publish
+comments: true
 title: start counting
 wordpress_id: '274'
 ---

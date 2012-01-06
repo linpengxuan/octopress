@@ -4,6 +4,7 @@ date: '2007-03-08 16:01:04'
 layout: post
 slug: blood-diamond
 status: publish
+comments: true
 title: BLOOD DIAMOND
 wordpress_id: '90'
 categories:

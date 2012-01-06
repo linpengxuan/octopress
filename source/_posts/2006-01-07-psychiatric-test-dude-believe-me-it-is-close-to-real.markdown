@@ -4,6 +4,7 @@ date: '2006-01-07 02:20:41'
 layout: post
 slug: psychiatric-test-dude-believe-me-it-is-close-to-real
 status: publish
+comments: true
 title: psychiatric test, dude, believe me, it is close to real
 wordpress_id: '249'
 categories:

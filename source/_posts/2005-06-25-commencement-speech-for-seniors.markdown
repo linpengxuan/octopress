@@ -4,6 +4,7 @@ date: '2005-06-25 05:31:09'
 layout: post
 slug: commencement-speech-for-seniors
 status: publish
+comments: true
 title: commencement speech for seniors
 wordpress_id: '322'
 ---

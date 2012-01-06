@@ -4,6 +4,7 @@ date: '2011-11-14 13:04:40'
 layout: post
 slug: '%e9%98%85%e8%af%bb%ef%bc%9asteve-jobs-reading'
 status: publish
+comments: true
 title: '阅读：Steve Jobs '
 wordpress_id: '474'
 categories:

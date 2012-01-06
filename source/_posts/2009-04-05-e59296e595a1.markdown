@@ -4,6 +4,7 @@ date: '2009-04-05 13:37:46'
 layout: post
 slug: '%e5%92%96%e5%95%a1'
 status: publish
+comments: true
 title: 咖啡
 wordpress_id: '501'
 ---

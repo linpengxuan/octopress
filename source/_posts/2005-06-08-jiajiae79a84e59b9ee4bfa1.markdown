@@ -4,6 +4,7 @@ date: '2005-06-08 01:18:39'
 layout: post
 slug: jiajia%e7%9a%84%e5%9b%9e%e4%bf%a1
 status: publish
+comments: true
 title: jiajia的回信
 wordpress_id: '332'
 ---

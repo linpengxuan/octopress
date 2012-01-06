@@ -4,6 +4,7 @@ date: '2005-02-01 15:25:24'
 layout: post
 slug: her-20th-birthday
 status: publish
+comments: true
 title: her 20th birthday...
 wordpress_id: '385'
 ---

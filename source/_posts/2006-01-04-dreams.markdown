@@ -4,6 +4,7 @@ date: '2006-01-04 13:46:35'
 layout: post
 slug: dreams
 status: publish
+comments: true
 title: dreams
 wordpress_id: '257'
 categories:

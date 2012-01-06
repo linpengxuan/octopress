@@ -4,6 +4,7 @@ date: '2004-12-03 13:39:26'
 layout: post
 slug: bar-exam
 status: publish
+comments: true
 title: bar exam
 wordpress_id: '426'
 ---

@@ -4,6 +4,7 @@ date: '2005-03-09 10:23:29'
 layout: post
 slug: '%e6%b2%a1%e6%97%b6%e9%97%b4%e5%86%99blog%ef%bc%8c%e4%b8%8a%e4%bc%a0%e6%88%91%e7%9a%84presentation-outline'
 status: publish
+comments: true
 title: 没时间写blog，上传我的presentation outline
 wordpress_id: '364'
 ---

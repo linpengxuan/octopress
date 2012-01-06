@@ -4,6 +4,7 @@ date: '2006-01-04 13:46:09'
 layout: post
 slug: my-families
 status: publish
+comments: true
 title: MY FAMILIEs
 wordpress_id: '272'
 categories:

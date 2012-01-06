@@ -4,6 +4,7 @@ date: '2005-06-07 12:53:33'
 layout: post
 slug: '%e7%bb%93%e6%9d%9f%e4%ba%86%e7%9a%84%e6%8c%91%e6%88%98'
 status: publish
+comments: true
 title: 结束了的挑战
 wordpress_id: '333'
 ---

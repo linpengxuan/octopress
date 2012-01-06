@@ -4,6 +4,7 @@ date: '2006-12-08 15:15:26'
 layout: post
 slug: '%e6%97%a0%e8%af%ad%e4%ba%86'
 status: publish
+comments: true
 title: 无语了
 wordpress_id: '116'
 ---

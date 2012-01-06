@@ -4,6 +4,7 @@ date: '2005-02-11 05:19:48'
 layout: post
 slug: '%e6%97%a0%e8%af%ad'
 status: publish
+comments: true
 title: 无语
 wordpress_id: '378'
 ---

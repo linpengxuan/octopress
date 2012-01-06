@@ -4,6 +4,7 @@ date: '2006-11-13 06:49:18'
 layout: post
 slug: '%e6%88%90%e5%8a%9f%e6%94%b6%e8%a7%86'
 status: publish
+comments: true
 title: 成功收视
 wordpress_id: '122'
 categories:

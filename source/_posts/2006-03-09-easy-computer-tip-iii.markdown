@@ -4,6 +4,7 @@ date: '2006-03-09 11:30:40'
 layout: post
 slug: easy-computer-tip-iii
 status: publish
+comments: true
 title: easy computer tip III
 wordpress_id: '187'
 categories:

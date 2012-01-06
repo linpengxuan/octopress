@@ -4,6 +4,7 @@ date: '2006-04-21 13:14:32'
 layout: post
 slug: '%e5%b0%8f%e7%94%9f%e6%b4%bb'
 status: publish
+comments: true
 title: 小生活
 wordpress_id: '166'
 categories:

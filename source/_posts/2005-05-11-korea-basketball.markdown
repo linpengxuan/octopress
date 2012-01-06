@@ -4,6 +4,7 @@ date: '2005-05-11 13:46:04'
 layout: post
 slug: korea-basketball
 status: publish
+comments: true
 title: korea basketball
 wordpress_id: '337'
 ---

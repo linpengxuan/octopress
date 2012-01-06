@@ -4,6 +4,7 @@ date: '2005-11-18 15:02:50'
 layout: post
 slug: '%e4%bd%a0%e8%a2%ab%e7%82%b9%e5%90%8d%e4%ba%86%e3%80%82'
 status: publish
+comments: true
 title: 你被点名了。
 wordpress_id: '303'
 ---

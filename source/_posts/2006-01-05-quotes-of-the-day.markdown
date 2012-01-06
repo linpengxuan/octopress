@@ -4,6 +4,7 @@ date: '2006-01-05 02:42:44'
 layout: post
 slug: quotes-of-the-day
 status: publish
+comments: true
 title: Quotes of the Day
 wordpress_id: '230'
 categories:

@@ -4,6 +4,7 @@ date: '2006-03-25 12:14:16'
 layout: post
 slug: goal
 status: publish
+comments: true
 title: Goal
 wordpress_id: '176'
 categories:

@@ -4,6 +4,7 @@ date: '2005-01-30 09:51:46'
 layout: post
 slug: i-really-get-angry-now
 status: publish
+comments: true
 title: i really get angry now
 wordpress_id: '389'
 ---

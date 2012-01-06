@@ -4,6 +4,7 @@ date: '2006-01-04 05:36:56'
 layout: post
 slug: jokes-collection
 status: publish
+comments: true
 title: Jokes Collection
 wordpress_id: '256'
 categories:

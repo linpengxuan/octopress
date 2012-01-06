@@ -4,6 +4,7 @@ date: '2005-01-13 05:08:22'
 layout: post
 slug: potential-rule
 status: publish
+comments: true
 title: potential rule
 wordpress_id: '402'
 ---

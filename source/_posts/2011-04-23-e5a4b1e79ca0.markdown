@@ -4,6 +4,7 @@ date: '2011-04-23 01:14:56'
 layout: post
 slug: '%e5%a4%b1%e7%9c%a0'
 status: publish
+comments: true
 title: 失眠
 wordpress_id: '540'
 ---

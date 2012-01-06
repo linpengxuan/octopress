@@ -4,6 +4,7 @@ date: '2005-02-17 11:50:11'
 layout: post
 slug: korea-jesuit-archbishop-lee-youngdae
 status: publish
+comments: true
 title: Korea Jesuit Archbishop Lee Youngdae
 wordpress_id: '374'
 ---

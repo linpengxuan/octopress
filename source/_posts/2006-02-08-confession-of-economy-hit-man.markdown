@@ -4,6 +4,7 @@ date: '2006-02-08 08:48:22'
 layout: post
 slug: confession-of-economy-hit-man
 status: publish
+comments: true
 title: confession of Economy Hit Man
 wordpress_id: '219'
 categories:

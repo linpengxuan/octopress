@@ -4,6 +4,7 @@ date: '2007-02-04 09:48:56'
 layout: post
 slug: '%e5%bc%ba'
 status: publish
+comments: true
 title: 强
 wordpress_id: '99'
 ---

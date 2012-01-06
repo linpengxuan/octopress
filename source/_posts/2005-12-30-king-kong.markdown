@@ -4,6 +4,7 @@ date: '2005-12-30 04:23:54'
 layout: post
 slug: king-kong
 status: publish
+comments: true
 title: King & Kong
 wordpress_id: '263'
 categories:

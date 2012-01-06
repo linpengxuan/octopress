@@ -4,6 +4,7 @@ date: '2005-12-06 11:01:33'
 layout: post
 slug: on-iraq
 status: publish
+comments: true
 title: on Iraq
 wordpress_id: '288'
 ---

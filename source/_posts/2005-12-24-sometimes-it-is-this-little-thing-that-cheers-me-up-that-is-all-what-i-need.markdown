@@ -4,6 +4,7 @@ date: '2005-12-24 08:04:48'
 layout: post
 slug: sometimes-it-is-this-little-thing-that-cheers-me-up-that-is-all-what-i-need
 status: publish
+comments: true
 title: Sometimes it is this little thing that cheers me up. that is all what i need.
 wordpress_id: '262'
 categories:

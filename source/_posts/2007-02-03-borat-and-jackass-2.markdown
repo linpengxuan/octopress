@@ -4,6 +4,7 @@ date: '2007-02-03 07:31:02'
 layout: post
 slug: borat-and-jackass-2
 status: publish
+comments: true
 title: Borat, and Jackass 2
 wordpress_id: '101'
 ---

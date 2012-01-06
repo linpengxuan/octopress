@@ -4,6 +4,7 @@ date: '2010-01-13 12:13:21'
 layout: post
 slug: test-2
 status: publish
+comments: true
 title: test
 wordpress_id: '537'
 ---

@@ -4,6 +4,7 @@ date: '2005-02-03 12:03:59'
 layout: post
 slug: life-is-too-short-to-be-sad
 status: publish
+comments: true
 title: life is too short to be sad
 wordpress_id: '384'
 ---

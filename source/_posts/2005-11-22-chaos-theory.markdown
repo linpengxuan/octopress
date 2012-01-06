@@ -4,6 +4,7 @@ date: '2005-11-22 02:00:52'
 layout: post
 slug: chaos-theory
 status: publish
+comments: true
 title: chaos theory
 wordpress_id: '300'
 ---

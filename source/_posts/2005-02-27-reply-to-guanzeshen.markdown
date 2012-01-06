@@ -4,6 +4,7 @@ date: '2005-02-27 02:24:25'
 layout: post
 slug: reply-to-guanzeshen
 status: publish
+comments: true
 title: reply to guanzeshen
 wordpress_id: '370'
 ---

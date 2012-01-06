@@ -4,6 +4,7 @@ date: '2005-05-17 02:56:29'
 layout: post
 slug: stop-blogging-and-suffing-until-lsat-in-june-705
 status: publish
+comments: true
 title: stop blogging and suffing until  LSAT in June 7,05
 wordpress_id: '335'
 ---

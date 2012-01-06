@@ -4,6 +4,7 @@ date: '2006-01-24 00:45:09'
 layout: post
 slug: syriana
 status: publish
+comments: true
 title: SYRIANA
 wordpress_id: '237'
 categories:

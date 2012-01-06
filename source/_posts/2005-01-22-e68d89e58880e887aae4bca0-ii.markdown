@@ -4,6 +4,7 @@ date: '2005-01-22 01:02:50'
 layout: post
 slug: '%e6%8d%89%e5%88%80%e8%87%aa%e4%bc%a0-ii'
 status: publish
+comments: true
 title: 捉刀自传 II
 wordpress_id: '396'
 ---

@@ -4,6 +4,7 @@ date: '2005-04-27 14:33:02'
 layout: post
 slug: the-1st-payment-i-got-from-english-camp
 status: publish
+comments: true
 title: the 1st payment i got from english camp
 wordpress_id: '345'
 ---

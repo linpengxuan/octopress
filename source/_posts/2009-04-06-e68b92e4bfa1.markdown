@@ -4,6 +4,7 @@ date: '2009-04-06 13:56:53'
 layout: post
 slug: '%e6%8b%92%e4%bf%a1'
 status: publish
+comments: true
 title: 拒信
 wordpress_id: '502'
 ---

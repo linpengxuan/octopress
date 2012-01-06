@@ -4,6 +4,7 @@ date: '2006-01-04 13:44:10'
 layout: post
 slug: life-in-korea
 status: publish
+comments: true
 title: liFE In kOREa
 wordpress_id: '271'
 categories:

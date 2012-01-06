@@ -4,6 +4,7 @@ date: '2007-10-22 14:49:00'
 layout: post
 slug: '%e5%9c%a8%e4%b9%9d%e6%9c%88%e7%bb%93%e6%9d%9f%e6%97%b6%e5%8f%ab%e9%86%92%e6%88%91'
 status: publish
+comments: true
 title: 在九月结束时叫醒我
 wordpress_id: '43'
 categories:

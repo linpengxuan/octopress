@@ -4,6 +4,7 @@ date: '2006-02-15 00:56:26'
 layout: post
 slug: life-is-beautiful
 status: publish
+comments: true
 title: life is beautiful
 wordpress_id: '214'
 categories:

@@ -4,6 +4,7 @@ date: '2006-01-31 08:31:36'
 layout: post
 slug: damn-funny-thaweat
 status: publish
+comments: true
 title: Damn Funny Thaweat
 wordpress_id: '225'
 categories:

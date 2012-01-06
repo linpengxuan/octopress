@@ -4,6 +4,7 @@ date: '2009-04-07 11:40:25'
 layout: post
 slug: '%e5%8c%85%e8%a3%b9'
 status: publish
+comments: true
 title: 包裹
 wordpress_id: '504'
 ---

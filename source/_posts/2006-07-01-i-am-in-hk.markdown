@@ -4,6 +4,7 @@ date: '2006-07-01 04:38:55'
 layout: post
 slug: i-am-in-hk
 status: publish
+comments: true
 title: I am in HK
 wordpress_id: '139'
 ---

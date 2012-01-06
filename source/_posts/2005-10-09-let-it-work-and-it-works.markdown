@@ -4,6 +4,7 @@ date: '2005-10-09 02:39:07'
 layout: post
 slug: let-it-work-and-it-works
 status: publish
+comments: true
 title: let it work. and it works
 wordpress_id: '315'
 ---

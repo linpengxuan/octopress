@@ -4,6 +4,7 @@ date: '2005-06-15 00:46:05'
 layout: post
 slug: from-%e6%bb%95%e5%bf%97%e9%b9%b0
 status: publish
+comments: true
 title: from 滕志鹰
 wordpress_id: '327'
 ---

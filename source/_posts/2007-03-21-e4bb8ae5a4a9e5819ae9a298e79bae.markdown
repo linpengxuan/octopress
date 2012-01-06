@@ -4,6 +4,7 @@ date: '2007-03-21 06:34:12'
 layout: post
 slug: '%e4%bb%8a%e5%a4%a9%e5%81%9a%e9%a2%98%e7%9b%ae'
 status: publish
+comments: true
 title: 今天做题目
 wordpress_id: '82'
 categories:

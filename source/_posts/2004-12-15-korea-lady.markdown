@@ -4,6 +4,7 @@ date: '2004-12-15 02:53:13'
 layout: post
 slug: korea-lady
 status: publish
+comments: true
 title: korea lady
 wordpress_id: '419'
 ---

@@ -4,6 +4,7 @@ date: '2010-09-28 00:23:18'
 layout: post
 slug: hello-world-2
 status: publish
+comments: true
 title: Hello world!
 wordpress_id: '446'
 ---

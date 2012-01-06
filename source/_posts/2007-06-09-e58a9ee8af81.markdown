@@ -4,6 +4,7 @@ date: '2007-06-09 02:49:39'
 layout: post
 slug: '%e5%8a%9e%e8%af%81'
 status: publish
+comments: true
 title: 办证
 wordpress_id: '63'
 ---

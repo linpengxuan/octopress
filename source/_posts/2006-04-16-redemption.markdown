@@ -4,6 +4,7 @@ date: '2006-04-16 07:28:09'
 layout: post
 slug: redemption
 status: publish
+comments: true
 title: redemption
 wordpress_id: '167'
 categories:

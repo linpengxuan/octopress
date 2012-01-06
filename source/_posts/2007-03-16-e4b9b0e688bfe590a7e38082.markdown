@@ -4,6 +4,7 @@ date: '2007-03-16 14:59:42'
 layout: post
 slug: '%e4%b9%b0%e6%88%bf%e5%90%a7%e3%80%82'
 status: publish
+comments: true
 title: 买房吧。
 wordpress_id: '84'
 categories:

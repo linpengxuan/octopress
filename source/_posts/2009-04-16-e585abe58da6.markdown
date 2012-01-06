@@ -4,6 +4,7 @@ date: '2009-04-16 19:49:58'
 layout: post
 slug: '%e5%85%ab%e5%8d%a6'
 status: publish
+comments: true
 title: 八卦
 wordpress_id: '516'
 ---

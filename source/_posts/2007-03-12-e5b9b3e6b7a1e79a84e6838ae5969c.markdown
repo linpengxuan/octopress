@@ -4,6 +4,7 @@ date: '2007-03-12 10:06:00'
 layout: post
 slug: '%e5%b9%b3%e6%b7%a1%e7%9a%84%e6%83%8a%e5%96%9c'
 status: publish
+comments: true
 title: 平淡的惊喜
 wordpress_id: '87'
 categories:

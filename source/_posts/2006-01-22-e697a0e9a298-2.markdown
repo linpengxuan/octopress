@@ -4,6 +4,7 @@ date: '2006-01-22 13:55:24'
 layout: post
 slug: '%e6%97%a0%e9%a2%98-2'
 status: publish
+comments: true
 title: 无题
 wordpress_id: '240'
 ---

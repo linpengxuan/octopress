@@ -4,6 +4,7 @@ date: '2006-07-22 16:57:55'
 layout: post
 slug: '%e4%b8%87%e5%9b%bd%e8%80%81%e5%b8%88%e8%af%ad%e5%bd%95'
 status: publish
+comments: true
 title: 万国老师语录
 wordpress_id: '133'
 categories:

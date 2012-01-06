@@ -4,6 +4,7 @@ date: '2009-03-01 14:36:56'
 layout: post
 slug: '%e8%a7%82nanta'
 status: publish
+comments: true
 title: 观nanta
 wordpress_id: '10'
 categories:

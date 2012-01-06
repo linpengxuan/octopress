@@ -4,6 +4,7 @@ date: '2005-11-30 01:16:39'
 layout: post
 slug: '%e5%8e%9f%e5%b0%ba%e5%af%b8'
 status: publish
+comments: true
 title: 原尺寸
 wordpress_id: '282'
 categories:

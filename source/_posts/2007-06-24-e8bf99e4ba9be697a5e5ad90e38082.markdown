@@ -4,6 +4,7 @@ date: '2007-06-24 08:06:44'
 layout: post
 slug: '%e8%bf%99%e4%ba%9b%e6%97%a5%e5%ad%90%e3%80%82'
 status: publish
+comments: true
 title: 这些日子。
 wordpress_id: '61'
 categories:

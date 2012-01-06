@@ -4,6 +4,7 @@ date: '2006-03-26 02:26:11'
 layout: post
 slug: again-some-thoughts-without-title
 status: publish
+comments: true
 title: again some thoughts without title
 wordpress_id: '175'
 categories:

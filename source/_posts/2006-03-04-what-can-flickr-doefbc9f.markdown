@@ -4,6 +4,7 @@ date: '2006-03-04 06:50:18'
 layout: post
 slug: what-can-flickr-do%ef%bc%9f
 status: publish
+comments: true
 title: what can flickr do？
 wordpress_id: '193'
 categories:

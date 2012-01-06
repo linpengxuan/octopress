@@ -4,6 +4,7 @@ date: '2011-05-06 03:47:43'
 layout: post
 slug: eason
 status: publish
+comments: true
 title: eason
 wordpress_id: '542'
 ---

@@ -4,6 +4,7 @@ date: '2006-05-19 11:51:47'
 layout: post
 slug: it-is-only-a-matter-of-time-to-lose-what-my-true-purpose-of-blogging-when-i-cant-write-what-i-wouldve-written-otherwised-thanks-to-the-publicity-axi-i-hate-it
 status: publish
+comments: true
 title: It is only a matter of time to lose what my true purpose of blogging when I
   can't write what I would've written otherwised thanks to the publicity. AXI, I hate
   it.

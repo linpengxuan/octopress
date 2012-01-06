@@ -4,6 +4,7 @@ date: '2005-12-04 08:10:41'
 layout: post
 slug: a-journey-west-iii-louvre
 status: publish
+comments: true
 title: a journey west III--Louvre
 wordpress_id: '291'
 ---

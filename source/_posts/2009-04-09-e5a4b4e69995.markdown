@@ -4,6 +4,7 @@ date: '2009-04-09 15:45:57'
 layout: post
 slug: '%e5%a4%b4%e6%99%95'
 status: publish
+comments: true
 title: 头晕
 wordpress_id: '507'
 ---

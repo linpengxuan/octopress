@@ -4,6 +4,7 @@ date: '2005-02-05 01:42:01'
 layout: post
 slug: time
 status: publish
+comments: true
 title: time
 wordpress_id: '382'
 ---

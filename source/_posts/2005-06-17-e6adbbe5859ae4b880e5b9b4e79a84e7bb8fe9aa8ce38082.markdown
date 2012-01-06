@@ -4,6 +4,7 @@ date: '2005-06-17 00:12:22'
 layout: post
 slug: '%e6%ad%bb%e5%85%9a%e4%b8%80%e5%b9%b4%e7%9a%84%e7%bb%8f%e9%aa%8c%e3%80%82'
 status: publish
+comments: true
 title: 死党一年的经验。
 wordpress_id: '326'
 ---

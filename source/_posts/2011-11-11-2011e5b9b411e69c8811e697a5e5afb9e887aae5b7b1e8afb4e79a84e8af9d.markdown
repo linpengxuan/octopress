@@ -4,6 +4,7 @@ date: '2011-11-11 14:52:24'
 layout: post
 slug: 2011%e5%b9%b411%e6%9c%8811%e6%97%a5%e5%af%b9%e8%87%aa%e5%b7%b1%e8%af%b4%e7%9a%84%e8%af%9d
 status: publish
+comments: true
 title: 2011年11月11日对自己说的话
 wordpress_id: '471'
 categories:

@@ -4,6 +4,7 @@ date: '2006-05-22 02:36:37'
 layout: post
 slug: '%e4%b8%80%e4%ba%9b%e5%b0%8f%e4%ba%8b%e3%80%82'
 status: publish
+comments: true
 title: 一些小事。
 wordpress_id: '158'
 categories:

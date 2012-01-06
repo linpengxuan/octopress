@@ -4,6 +4,7 @@ date: '2005-04-18 09:15:24'
 layout: post
 slug: springs-coming
 status: publish
+comments: true
 title: spring's coming
 wordpress_id: '347'
 ---

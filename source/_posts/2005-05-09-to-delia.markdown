@@ -4,6 +4,7 @@ date: '2005-05-09 15:31:26'
 layout: post
 slug: to-delia
 status: publish
+comments: true
 title: to delia
 wordpress_id: '340'
 ---

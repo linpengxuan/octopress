@@ -4,6 +4,7 @@ date: '2007-03-01 16:16:30'
 layout: post
 slug: '%e5%86%99%e5%be%97%e9%83%bd%e6%98%af%e6%88%91%e3%80%82'
 status: publish
+comments: true
 title: 写得都是我。
 wordpress_id: '93'
 categories:

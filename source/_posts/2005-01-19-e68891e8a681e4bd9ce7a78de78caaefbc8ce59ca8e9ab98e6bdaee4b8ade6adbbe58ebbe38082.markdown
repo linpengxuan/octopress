@@ -4,6 +4,7 @@ date: '2005-01-19 11:12:02'
 layout: post
 slug: '%e6%88%91%e8%a6%81%e4%bd%9c%e7%a7%8d%e7%8c%aa%ef%bc%8c%e5%9c%a8%e9%ab%98%e6%bd%ae%e4%b8%ad%e6%ad%bb%e5%8e%bb%e3%80%82'
 status: publish
+comments: true
 title: 我要作种猪，在高潮中死去。
 wordpress_id: '399'
 ---

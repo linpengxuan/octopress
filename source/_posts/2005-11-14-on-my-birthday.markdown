@@ -4,6 +4,7 @@ date: '2005-11-14 01:42:50'
 layout: post
 slug: on-my-birthday
 status: publish
+comments: true
 title: on My birthday
 wordpress_id: '307'
 ---

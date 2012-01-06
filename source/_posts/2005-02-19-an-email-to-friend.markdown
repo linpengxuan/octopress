@@ -4,6 +4,7 @@ date: '2005-02-19 16:06:42'
 layout: post
 slug: an-email-to-friend
 status: publish
+comments: true
 title: an email to friend
 wordpress_id: '372'
 ---

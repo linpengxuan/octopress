@@ -4,6 +4,7 @@ date: '2005-06-10 23:02:58'
 layout: post
 slug: the-cruel-survivor-games
 status: publish
+comments: true
 title: the Cruel Survivor Games
 wordpress_id: '331'
 ---

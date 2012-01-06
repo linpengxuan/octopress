@@ -4,6 +4,7 @@ date: '2006-03-03 02:37:13'
 layout: post
 slug: just-for-killing-time
 status: publish
+comments: true
 title: just for killing time
 wordpress_id: '197'
 categories:

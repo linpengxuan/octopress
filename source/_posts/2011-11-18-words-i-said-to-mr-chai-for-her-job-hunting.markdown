@@ -4,6 +4,7 @@ date: '2011-11-18 15:43:39'
 layout: post
 slug: words-i-said-to-mr-chai-for-her-job-hunting
 status: publish
+comments: true
 title: words I said to Mr. Chai for her job hunting
 wordpress_id: '483'
 categories:

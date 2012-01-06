@@ -4,6 +4,7 @@ date: '2007-07-25 13:48:01'
 layout: post
 slug: '%e5%93%88%e5%93%88'
 status: publish
+comments: true
 title: 哈哈
 wordpress_id: '52'
 ---

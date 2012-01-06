@@ -4,6 +4,7 @@ date: '2006-06-01 15:49:42'
 layout: post
 slug: some-more-jokes
 status: publish
+comments: true
 title: some more jokes
 wordpress_id: '149'
 categories:

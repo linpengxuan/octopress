@@ -4,6 +4,7 @@ date: '2009-04-23 11:31:35'
 layout: post
 slug: '%e6%9c%9f%e5%be%85'
 status: publish
+comments: true
 title: 期待
 wordpress_id: '519'
 ---

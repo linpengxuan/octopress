@@ -4,6 +4,7 @@ date: '2005-03-19 14:22:29'
 layout: post
 slug: when-i-was-young
 status: publish
+comments: true
 title: when i was young
 wordpress_id: '360'
 ---

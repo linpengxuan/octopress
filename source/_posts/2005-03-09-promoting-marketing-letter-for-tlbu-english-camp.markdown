@@ -4,6 +4,7 @@ date: '2005-03-09 11:12:59'
 layout: post
 slug: promoting-marketing-letter-for-tlbu-english-camp
 status: publish
+comments: true
 title: promoting marketing letter for TLBU English Camp
 wordpress_id: '363'
 ---

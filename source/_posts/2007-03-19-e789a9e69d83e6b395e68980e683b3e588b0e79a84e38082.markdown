@@ -4,6 +4,7 @@ date: '2007-03-19 15:08:20'
 layout: post
 slug: '%e7%89%a9%e6%9d%83%e6%b3%95%e6%89%80%e6%83%b3%e5%88%b0%e7%9a%84%e3%80%82'
 status: publish
+comments: true
 title: 物权法所想到的。
 wordpress_id: '81'
 categories:

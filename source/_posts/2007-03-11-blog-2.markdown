@@ -4,6 +4,7 @@ date: '2007-03-11 16:00:19'
 layout: post
 slug: blog-2
 status: publish
+comments: true
 title: blog
 wordpress_id: '80'
 categories:

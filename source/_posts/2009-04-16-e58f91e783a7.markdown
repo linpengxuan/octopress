@@ -4,6 +4,7 @@ date: '2009-04-16 22:09:57'
 layout: post
 slug: '%e5%8f%91%e7%83%a7'
 status: publish
+comments: true
 title: 发烧
 wordpress_id: '517'
 ---

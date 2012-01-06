@@ -4,6 +4,7 @@ date: '2006-06-01 08:39:16'
 layout: post
 slug: dung%e7%9a%84mp3
 status: publish
+comments: true
 title: Dung的mp3
 wordpress_id: '150'
 categories:

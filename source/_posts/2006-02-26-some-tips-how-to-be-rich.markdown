@@ -4,6 +4,7 @@ date: '2006-02-26 10:44:26'
 layout: post
 slug: some-tips-how-to-be-rich
 status: publish
+comments: true
 title: some tips how to be rich
 wordpress_id: '204'
 categories:

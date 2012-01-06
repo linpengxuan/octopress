@@ -4,6 +4,7 @@ date: '2009-06-02 12:44:22'
 layout: post
 slug: '%e7%8b%a1%e5%85%94'
 status: publish
+comments: true
 title: 狡兔
 wordpress_id: '528'
 ---

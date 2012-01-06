@@ -4,6 +4,7 @@ date: '2006-05-01 07:22:40'
 layout: post
 slug: funny-things-about-desperate-housewives
 status: publish
+comments: true
 title: Funny things about Desperate Housewives
 wordpress_id: '164'
 categories:

@@ -4,6 +4,7 @@ date: '2007-06-01 01:55:06'
 layout: post
 slug: '%e5%90%8c%e5%ad%a6%e4%bc%a0%e6%9d%a5%e7%9a%84%e5%86%b7%e7%ac%91%e8%af%9d'
 status: publish
+comments: true
 title: 同学传来的冷笑话
 wordpress_id: '65'
 ---

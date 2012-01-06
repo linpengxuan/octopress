@@ -4,6 +4,7 @@ date: '2008-09-15 05:29:40'
 layout: post
 slug: '%e5%be%88%e8%bf%9f%ef%bc%8c%e5%be%88%e7%9c%9f%e8%af%9a'
 status: publish
+comments: true
 title: 很迟，很真诚
 wordpress_id: '16'
 ---

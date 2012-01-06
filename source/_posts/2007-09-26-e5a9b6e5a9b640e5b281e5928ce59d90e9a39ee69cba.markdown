@@ -4,6 +4,7 @@ date: '2007-09-26 14:59:14'
 layout: post
 slug: '%e5%a9%b6%e5%a9%b640%e5%b2%81%e5%92%8c%e5%9d%90%e9%a3%9e%e6%9c%ba'
 status: publish
+comments: true
 title: 婶婶40岁和坐飞机
 wordpress_id: '47'
 ---

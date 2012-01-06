@@ -4,6 +4,7 @@ date: '2009-04-12 14:03:51'
 layout: post
 slug: lovefree
 status: publish
+comments: true
 title: love&free
 wordpress_id: '511'
 ---

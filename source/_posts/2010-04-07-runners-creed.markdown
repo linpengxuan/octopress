@@ -4,6 +4,7 @@ date: '2010-04-07 12:45:01'
 layout: post
 slug: runners-creed
 status: publish
+comments: true
 title: runner's creed.
 wordpress_id: '447'
 ---

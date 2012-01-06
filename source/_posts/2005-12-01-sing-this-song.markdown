@@ -4,6 +4,7 @@ date: '2005-12-01 02:56:07'
 layout: post
 slug: sing-this-song
 status: publish
+comments: true
 title: sing this song
 wordpress_id: '296'
 ---

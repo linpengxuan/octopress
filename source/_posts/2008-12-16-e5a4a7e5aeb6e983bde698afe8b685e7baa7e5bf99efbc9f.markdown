@@ -4,6 +4,7 @@ date: '2008-12-16 14:17:56'
 layout: post
 slug: '%e5%a4%a7%e5%ae%b6%e9%83%bd%e6%98%af%e8%b6%85%e7%ba%a7%e5%bf%99%ef%bc%9f'
 status: publish
+comments: true
 title: 大家都是超级忙？
 wordpress_id: '14'
 categories:

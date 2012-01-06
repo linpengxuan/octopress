@@ -4,6 +4,7 @@ date: '2005-01-12 02:33:00'
 layout: post
 slug: '%e6%b4%bb%e7%9d%80'
 status: publish
+comments: true
 title: 活着
 wordpress_id: '403'
 ---

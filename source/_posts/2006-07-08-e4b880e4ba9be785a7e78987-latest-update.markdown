@@ -4,6 +4,7 @@ date: '2006-07-08 07:32:13'
 layout: post
 slug: '%e4%b8%80%e4%ba%9b%e7%85%a7%e7%89%87-latest-update'
 status: publish
+comments: true
 title: 一些照片, latest update.
 wordpress_id: '137'
 categories:

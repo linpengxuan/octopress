@@ -4,6 +4,7 @@ date: '2009-04-14 00:21:30'
 layout: post
 slug: '%e5%bf%98%e8%ae%b0'
 status: publish
+comments: true
 title: 忘记
 wordpress_id: '514'
 ---

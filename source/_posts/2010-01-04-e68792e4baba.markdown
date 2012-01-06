@@ -4,6 +4,7 @@ date: '2010-01-04 21:10:11'
 layout: post
 slug: '%e6%87%92%e4%ba%ba'
 status: publish
+comments: true
 title: 懒人
 wordpress_id: '534'
 ---

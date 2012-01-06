@@ -4,6 +4,7 @@ date: '2006-06-16 05:35:24'
 layout: post
 slug: '%e6%9c%89%e7%82%b9%e6%90%9e%e7%ac%91-%e4%bd%86%e7%9c%9f%e4%b8%80%e8%af%b4%e4%b8%80%e4%b8%aa%e5%87%86-%e7%90%83%e7%8e%8b%e8%b4%9d%e5%88%a9%e4%b9%8c%e9%b8%a6%e5%98%b4%e5%85%a8%e8%ae%b0%e5%bd%95'
 status: publish
+comments: true
 title: 有点搞笑 但真一说一个准 球王贝利乌鸦嘴全记录
 wordpress_id: '141'
 categories:

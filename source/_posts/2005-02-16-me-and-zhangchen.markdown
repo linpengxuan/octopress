@@ -4,6 +4,7 @@ date: '2005-02-16 09:21:48'
 layout: post
 slug: me-and-zhangchen
 status: publish
+comments: true
 title: me and zhangchen
 wordpress_id: '375'
 ---

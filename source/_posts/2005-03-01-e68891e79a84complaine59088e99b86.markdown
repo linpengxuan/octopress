@@ -4,6 +4,7 @@ date: '2005-03-01 07:54:58'
 layout: post
 slug: '%e6%88%91%e7%9a%84complain%e5%90%88%e9%9b%86'
 status: publish
+comments: true
 title: 我的complain合集
 wordpress_id: '368'
 ---

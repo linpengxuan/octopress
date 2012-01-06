@@ -4,6 +4,7 @@ date: '2006-01-06 23:32:44'
 layout: post
 slug: '%e6%b5%8b%e8%af%95%e7%94%b5%e5%ad%90%e9%82%ae%e4%bb%b6%e5%8f%91%e5%b8%83blog'
 status: publish
+comments: true
 title: 测试电子邮件发布blog
 wordpress_id: '252'
 ---

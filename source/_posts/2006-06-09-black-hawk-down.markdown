@@ -4,6 +4,7 @@ date: '2006-06-09 08:35:35'
 layout: post
 slug: black-hawk-down
 status: publish
+comments: true
 title: Black Hawk Down
 wordpress_id: '144'
 categories:

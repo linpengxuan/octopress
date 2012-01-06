@@ -4,6 +4,7 @@ date: '2005-06-24 23:01:53'
 layout: post
 slug: '%e6%88%91%e5%bc%80%e5%a7%8b%e6%8b%85%e5%bf%83'
 status: publish
+comments: true
 title: 我开始担心
 wordpress_id: '323'
 ---

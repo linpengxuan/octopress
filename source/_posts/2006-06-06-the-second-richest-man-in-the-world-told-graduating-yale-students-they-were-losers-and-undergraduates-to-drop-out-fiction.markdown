@@ -4,6 +4,7 @@ date: '2006-06-06 15:12:08'
 layout: post
 slug: the-second-richest-man-in-the-world-told-graduating-yale-students-they-were-losers-and-undergraduates-to-drop-out-fiction
 status: publish
+comments: true
 title: The Second-Richest Man in the World Told Graduating Yale Students They Were
   Losers...and Undergraduates To Drop-out-Fiction!
 wordpress_id: '147'

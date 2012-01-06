@@ -4,6 +4,7 @@ date: '2006-02-01 14:48:56'
 layout: post
 slug: what-am-i-up-to-these-days
 status: publish
+comments: true
 title: what am I up to these days?
 wordpress_id: '222'
 categories:

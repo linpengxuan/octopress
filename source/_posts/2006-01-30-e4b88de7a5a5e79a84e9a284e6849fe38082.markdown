@@ -4,6 +4,7 @@ date: '2006-01-30 13:34:10'
 layout: post
 slug: '%e4%b8%8d%e7%a5%a5%e7%9a%84%e9%a2%84%e6%84%9f%e3%80%82'
 status: publish
+comments: true
 title: 不祥的预感。
 wordpress_id: '228'
 categories:

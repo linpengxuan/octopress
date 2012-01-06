@@ -4,6 +4,7 @@ date: '2006-01-28 12:12:39'
 layout: post
 slug: a-friend-of-mine-amao
 status: publish
+comments: true
 title: a friend of mine, amao
 wordpress_id: '235'
 categories:

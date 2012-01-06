@@ -4,6 +4,7 @@ date: '2006-05-05 13:55:27'
 layout: post
 slug: could-hardly-be-more-handsome
 status: publish
+comments: true
 title: could hardly be more handsome!
 wordpress_id: '163'
 categories:

@@ -4,6 +4,7 @@ date: '2005-11-16 02:58:56'
 layout: post
 slug: story-began-in-france
 status: publish
+comments: true
 title: story began in France
 wordpress_id: '305'
 ---

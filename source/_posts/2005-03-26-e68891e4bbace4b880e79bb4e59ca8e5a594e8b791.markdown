@@ -4,6 +4,7 @@ date: '2005-03-26 08:47:40'
 layout: post
 slug: '%e6%88%91%e4%bb%ac%e4%b8%80%e7%9b%b4%e5%9c%a8%e5%a5%94%e8%b7%91'
 status: publish
+comments: true
 title: 我们一直在奔跑
 wordpress_id: '355'
 ---

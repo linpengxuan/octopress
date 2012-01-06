@@ -4,6 +4,7 @@ date: '2006-02-27 13:40:51'
 layout: post
 slug: flash-lighting
 status: publish
+comments: true
 title: flash lighting
 wordpress_id: '202'
 categories:

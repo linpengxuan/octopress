@@ -4,6 +4,7 @@ date: '2005-06-25 06:37:02'
 layout: post
 slug: '%e4%be%a0%e4%b9%8b%e5%a4%a7%e8%80%85'
 status: publish
+comments: true
 title: 侠之大者
 wordpress_id: '321'
 ---

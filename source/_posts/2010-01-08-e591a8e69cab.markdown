@@ -4,6 +4,7 @@ date: '2010-01-08 12:09:08'
 layout: post
 slug: '%e5%91%a8%e6%9c%ab'
 status: publish
+comments: true
 title: 周末
 wordpress_id: '536'
 ---

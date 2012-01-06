@@ -4,6 +4,7 @@ date: '2006-01-14 00:05:42'
 layout: post
 slug: wrong-shoes
 status: publish
+comments: true
 title: wrong shoes
 wordpress_id: '245'
 categories:

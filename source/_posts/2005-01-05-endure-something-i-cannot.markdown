@@ -4,6 +4,7 @@ date: '2005-01-05 05:45:02'
 layout: post
 slug: endure-something-i-cannot
 status: publish
+comments: true
 title: endure something i cannot
 wordpress_id: '407'
 ---

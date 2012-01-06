@@ -4,6 +4,7 @@ date: '2006-03-03 15:21:46'
 layout: post
 slug: easy-your-computer-using-flickr
 status: publish
+comments: true
 title: easy your computer--using Flickr
 wordpress_id: '195'
 categories:

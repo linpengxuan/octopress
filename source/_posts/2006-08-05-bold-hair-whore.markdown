@@ -4,6 +4,7 @@ date: '2006-08-05 04:10:09'
 layout: post
 slug: bold-hair-whore
 status: publish
+comments: true
 title: bold hair (w)hore...
 wordpress_id: '129'
 categories:

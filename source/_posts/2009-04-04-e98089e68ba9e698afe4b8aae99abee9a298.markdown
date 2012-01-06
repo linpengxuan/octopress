@@ -4,6 +4,7 @@ date: '2009-04-04 01:02:33'
 layout: post
 slug: '%e9%80%89%e6%8b%a9%e6%98%af%e4%b8%aa%e9%9a%be%e9%a2%98'
 status: publish
+comments: true
 title: 选择是个难题
 wordpress_id: '499'
 ---

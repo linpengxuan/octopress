@@ -4,6 +4,7 @@ date: '2007-12-26 06:03:49'
 layout: post
 slug: '%e5%86%99%e5%9c%a807%e5%9c%a3%e8%af%9e%e5%90%8e%e3%80%82%e3%80%82%e3%80%82'
 status: publish
+comments: true
 title: 写在07圣诞后。。。
 wordpress_id: '36'
 ---

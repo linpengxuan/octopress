@@ -4,6 +4,7 @@ date: '2006-05-14 14:14:26'
 layout: post
 slug: imf
 status: publish
+comments: true
 title: IMF
 wordpress_id: '162'
 categories:

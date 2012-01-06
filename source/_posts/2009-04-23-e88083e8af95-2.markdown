@@ -4,6 +4,7 @@ date: '2009-04-23 22:59:04'
 layout: post
 slug: '%e8%80%83%e8%af%95-2'
 status: publish
+comments: true
 title: 坚强
 wordpress_id: '521'
 ---

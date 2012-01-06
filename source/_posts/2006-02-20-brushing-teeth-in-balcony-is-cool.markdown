@@ -4,6 +4,7 @@ date: '2006-02-20 23:25:09'
 layout: post
 slug: brushing-teeth-in-balcony-is-cool
 status: publish
+comments: true
 title: BRUSHING TEETH IN BALCONY IS COOL
 wordpress_id: '209'
 categories:

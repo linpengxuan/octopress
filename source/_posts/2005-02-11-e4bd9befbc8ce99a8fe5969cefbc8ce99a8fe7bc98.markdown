@@ -4,6 +4,7 @@ date: '2005-02-11 11:31:10'
 layout: post
 slug: '%e4%bd%9b%ef%bc%8c%e9%9a%8f%e5%96%9c%ef%bc%8c%e9%9a%8f%e7%bc%98'
 status: publish
+comments: true
 title: 佛，随喜，随缘
 wordpress_id: '377'
 ---

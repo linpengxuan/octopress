@@ -4,6 +4,7 @@ date: '2007-01-11 14:24:18'
 layout: post
 slug: thats-the-way-i-like
 status: publish
+comments: true
 title: That’s the way I like
 wordpress_id: '108'
 ---

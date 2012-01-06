@@ -4,6 +4,7 @@ date: '2009-04-13 20:13:47'
 layout: post
 slug: '%e6%b7%8b%e9%9b%a8'
 status: publish
+comments: true
 title: 淋雨
 wordpress_id: '513'
 ---

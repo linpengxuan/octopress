@@ -4,6 +4,7 @@ date: '2005-02-01 05:34:10'
 layout: post
 slug: internship-in-hainan
 status: publish
+comments: true
 title: internship in Hainan
 wordpress_id: '386'
 ---

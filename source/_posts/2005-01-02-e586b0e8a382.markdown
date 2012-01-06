@@ -4,6 +4,7 @@ date: '2005-01-02 04:46:32'
 layout: post
 slug: '%e5%86%b0%e8%a3%82'
 status: publish
+comments: true
 title: 冰裂
 wordpress_id: '409'
 ---

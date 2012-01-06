@@ -4,6 +4,7 @@ date: '2009-07-01 20:25:59'
 layout: post
 slug: '%e6%94%be%e5%81%87'
 status: publish
+comments: true
 title: 放假
 wordpress_id: '529'
 ---

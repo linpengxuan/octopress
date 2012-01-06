@@ -4,6 +4,7 @@ date: '2005-11-18 15:22:12'
 layout: post
 slug: howls-moving-castle
 status: publish
+comments: true
 title: howl's moving castle
 wordpress_id: '302'
 ---

@@ -4,6 +4,7 @@ date: '2009-03-05 13:00:51'
 layout: post
 slug: '%e4%bf%9d%e5%ae%9a%e7%9a%84%e9%bb%84%e6%98%8f'
 status: publish
+comments: true
 title: 保定的黄昏
 wordpress_id: '9'
 categories:

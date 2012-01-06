@@ -4,6 +4,7 @@ date: '2005-12-16 07:24:17'
 layout: post
 slug: war-games
 status: publish
+comments: true
 title: War Games
 wordpress_id: '278'
 categories:

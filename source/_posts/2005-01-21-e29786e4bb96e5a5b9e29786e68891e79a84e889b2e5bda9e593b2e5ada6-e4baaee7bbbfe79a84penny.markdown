@@ -4,6 +4,7 @@ date: '2005-01-21 15:35:05'
 layout: post
 slug: '%e2%97%86%e4%bb%96%e5%a5%b9%e2%97%86%e6%88%91%e7%9a%84%e8%89%b2%e5%bd%a9%e5%93%b2%e5%ad%a6-%e4%ba%ae%e7%bb%bf%e7%9a%84penny'
 status: publish
+comments: true
 title: '[◆他她◆]我的色彩哲学——亮绿的PENNY'
 wordpress_id: '397'
 ---

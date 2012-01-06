@@ -4,6 +4,7 @@ date: '2005-02-01 00:55:38'
 layout: post
 slug: sit-by-ice
 status: publish
+comments: true
 title: sit by Ice
 wordpress_id: '387'
 ---

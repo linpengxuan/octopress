@@ -4,6 +4,7 @@ date: '2007-04-04 05:48:03'
 layout: post
 slug: '%e7%be%8e%e4%b8%bd%e7%9a%84%e5%8e%a6%e9%97%a8'
 status: publish
+comments: true
 title: 美丽的厦门
 wordpress_id: '77'
 categories:

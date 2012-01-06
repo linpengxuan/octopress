@@ -4,6 +4,7 @@ date: '2007-03-04 11:52:12'
 layout: post
 slug: '%e6%97%a0%e9%a2%98'
 status: publish
+comments: true
 title: 无题
 wordpress_id: '92'
 categories:

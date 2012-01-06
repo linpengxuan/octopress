@@ -4,6 +4,7 @@ date: '2010-01-03 13:00:56'
 layout: post
 slug: '%e4%b8%8b%e9%9b%aa'
 status: publish
+comments: true
 title: 下雪
 wordpress_id: '533'
 ---

@@ -4,6 +4,7 @@ date: '2005-03-11 16:23:01'
 layout: post
 slug: some-sudden-thoughts
 status: publish
+comments: true
 title: some sudden thoughts
 wordpress_id: '362'
 ---

@@ -4,6 +4,7 @@ date: '2009-03-26 00:08:22'
 layout: post
 slug: '%e7%99%be%e8%8a%b1%e6%b7%b1%e5%a4%84%e7%9a%84%e8%ae%b0%e5%bf%86'
 status: publish
+comments: true
 title: 百花深处的记忆
 wordpress_id: '495'
 ---

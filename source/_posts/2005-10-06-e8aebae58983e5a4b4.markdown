@@ -4,6 +4,7 @@ date: '2005-10-06 16:31:49'
 layout: post
 slug: '%e8%ae%ba%e5%89%83%e5%a4%b4'
 status: publish
+comments: true
 title: 论剃头
 wordpress_id: '317'
 ---

@@ -4,6 +4,7 @@ date: '2008-08-26 04:54:59'
 layout: post
 slug: '%e6%97%85%e8%a1%8c%e5%b0%8f%e8%ae%b0%ef%bc%8c%e6%88%91%e5%9c%a8%e4%ba%91%e5%8d%97%e7%9a%84%e6%b5%81%e6%b0%b4%e5%b8%90'
 status: publish
+comments: true
 title: 旅行小记，我在云南的流水帐
 wordpress_id: '19'
 categories:

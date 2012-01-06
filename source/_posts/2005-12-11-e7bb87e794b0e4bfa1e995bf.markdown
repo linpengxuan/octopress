@@ -4,6 +4,7 @@ date: '2005-12-11 08:07:57'
 layout: post
 slug: '%e7%bb%87%e7%94%b0%e4%bf%a1%e9%95%bf'
 status: publish
+comments: true
 title: 织田信长
 wordpress_id: '284'
 ---

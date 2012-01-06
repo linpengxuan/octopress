@@ -4,6 +4,7 @@ date: '2008-08-17 01:38:31'
 layout: post
 slug: '%e5%85%88%e5%8f%91%e4%b8%80%e5%bc%a0'
 status: publish
+comments: true
 title: 先发一张
 wordpress_id: '20'
 categories:

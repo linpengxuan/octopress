@@ -4,6 +4,7 @@ date: '2006-01-06 12:59:55'
 layout: post
 slug: the-nobel-lecture
 status: publish
+comments: true
 title: The Nobel Lecture
 wordpress_id: '247'
 categories:

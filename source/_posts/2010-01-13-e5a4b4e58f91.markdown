@@ -4,6 +4,7 @@ date: '2010-01-13 13:06:00'
 layout: post
 slug: '%e5%a4%b4%e5%8f%91'
 status: publish
+comments: true
 title: 头发
 wordpress_id: '538'
 ---

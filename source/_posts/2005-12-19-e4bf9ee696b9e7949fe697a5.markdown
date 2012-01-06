@@ -4,6 +4,7 @@ date: '2005-12-19 09:00:31'
 layout: post
 slug: '%e4%bf%9e%e6%96%b9%e7%94%9f%e6%97%a5'
 status: publish
+comments: true
 title: 俞方生日
 wordpress_id: '258'
 categories:

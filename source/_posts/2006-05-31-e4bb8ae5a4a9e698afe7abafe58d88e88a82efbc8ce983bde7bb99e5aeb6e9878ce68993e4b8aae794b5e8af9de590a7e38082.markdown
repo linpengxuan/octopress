@@ -4,6 +4,7 @@ date: '2006-05-31 12:59:26'
 layout: post
 slug: '%e4%bb%8a%e5%a4%a9%e6%98%af%e7%ab%af%e5%8d%88%e8%8a%82%ef%bc%8c%e9%83%bd%e7%bb%99%e5%ae%b6%e9%87%8c%e6%89%93%e4%b8%aa%e7%94%b5%e8%af%9d%e5%90%a7%e3%80%82'
 status: publish
+comments: true
 title: 今天是端午节，都给家里打个电话吧。
 wordpress_id: '151'
 categories:

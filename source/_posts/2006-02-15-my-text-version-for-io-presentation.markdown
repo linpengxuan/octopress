@@ -4,6 +4,7 @@ date: '2006-02-15 17:33:36'
 layout: post
 slug: my-text-version-for-io-presentation
 status: publish
+comments: true
 title: my text version for IO presentation
 wordpress_id: '213'
 categories:

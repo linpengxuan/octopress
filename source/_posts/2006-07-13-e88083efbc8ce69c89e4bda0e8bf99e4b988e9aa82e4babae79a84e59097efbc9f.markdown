@@ -4,6 +4,7 @@ date: '2006-07-13 16:41:13'
 layout: post
 slug: '%e8%80%83%ef%bc%8c%e6%9c%89%e4%bd%a0%e8%bf%99%e4%b9%88%e9%aa%82%e4%ba%ba%e7%9a%84%e5%90%97%ef%bc%9f'
 status: publish
+comments: true
 title: 考，有你这么骂人的吗？
 wordpress_id: '136'
 categories:
