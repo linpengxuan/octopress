@@ -7,15 +7,14 @@ status: publish
 comments: true
 title: kindle touch 初始印象
 wordpress_id: '489'
-categories:
-- life
-- reading
+categories: life reading
 ---
 
   1. 今天收到kindle touch。我非常确定我是相当早获得touch的人。一来订的早，二来直接让朋友寄过来，USPS据说快要破产了，怎么送快递还这么给力（也可能是因为这个原因吧，-_-!!）。美国到首尔用了6天，快递费是14美元。对kindle fire没有任何心思，对我来说，家里的iPad已经是最给力的了，和airport配合，音箱直接流出无线音乐。 ![alt text](https://lh4.googleusercontent.com/-s5qPeTZVJWQ/TuITT8DJs4I/AAAAAAAAEuw/kL4N-gRuB0c/s720/IMG_4805.jpg)
 
   2. 先聊下我用E-ink的历史。最早在08年的时候，买了PRS-500，系统尽管爆慢，但还是用得很开心，每天乐此不疲地拷书，转书，两千块觉得特别值。以致我去看牙医时，医生不干活特地跑过来问这东西咋整，后来去保定工作时，一个早上起床用手撑到了它的屏幕上，没错，碎了，没用后就直接寄给@hidigi了；然后就入了kindle dx，绝对是看漫画的利器，看完漫画就不知道该如何用了，套句别人形容10年5月时在地铁拿出iPad时的话叫，a desperate crying for the attention. 我非常不好意思在公共场合拿出来。3800从希腊白入的，3000在iPad出来前夕出了（东莞的兄弟，不好意思，价钱卖你卖高了）；之后就是今年年初北京入了kindle keyboard，特别在熟练运用amazon的各种转发服务后，如获至宝，我做完手术无聊的时候，硬是用这个看完了天渊，和深渊上的火，好用到我是抱着它睡觉的，于是，在某一天早上起床用手撑到屏幕上，pia，没错，又碎了。这就是为什么我一直买kindle的原因了，我打电话说屏幕碎了，客服说，我给你寄个新的，收到后你自己再把坏的寄过来，她怕我费用上有损失，还打了49usd的gift card给我。
 
+<!--more-->
   3. 用过keyboard的人都知道，做工其实不好，总是给人纤弱的感觉，一碰就坏，事实也是如此。touch则不同，或许因为按键少的缘故，外壳改用金属材料，不禁有种要不和诺基亚一起比比结实的冲动。我看到kindle touch之后，产生一种这是电子书中的iPhone的感觉。一个home键，一个开关，一个耳机插孔，一个USB。然后就没了。很好，就是我想要的。 ![alt text](https://lh6.googleusercontent.com/-e3zxprRLliU/TuITVarGp2I/AAAAAAAAEvA/vjssU8qgz34/s720/IMG_4814.jpg)
 
   4. 我英文小说看的比较多，很大一个问题是，查单词。巨烦一格一格地移动，急需触屏。当Bezos宣布kindle touch之后，套用英国那哥们的话，that's it? OK, I want one. 我对这个touch要求最高的就是可以方便查单词。不过手指点上后，倒是要等一段时间才弹出来。乐观点来说就是，这样是鼓励和督促我们记单词。 ![alt text](https://lh4.googleusercontent.com/-zSwISpE9Xf8/TuITWoCufAI/AAAAAAAAEvU/P8Z3jPVPEcE/s720/IMG_4821.jpg)
